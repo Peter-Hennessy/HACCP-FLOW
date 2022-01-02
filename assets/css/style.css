@@ -9,7 +9,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    color: #181717;
+    color: #fffdfd;
 }
 
 /* hedaings & logos */
@@ -18,7 +18,7 @@ h1, h2 {
     font-family: Archivo, sans-serif;
     font-weight: 300;
     letter-spacing: 3px;
-    color: #0e0d0d
+    color: #fffdfd;
 }
 
 #logo {
@@ -44,6 +44,13 @@ border-bottom: 1px solid #3a3a3a;
  }
  .active {
     border-bottom: 1px solid #3a3a3a;
+ }
+
+ #chef-cooking {
+     height: 600px;
+     width: 100%;
+     background-image: url('images/chef-cooking.jpg')
+
  }
 
 
