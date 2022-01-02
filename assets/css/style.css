@@ -9,7 +9,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    color: #fffdfd;
+    color: #f3db08;
 }
 
 /* hedaings & logos */
@@ -18,13 +18,56 @@ h1, h2 {
     font-family: Archivo, sans-serif;
     font-weight: 300;
     letter-spacing: 3px;
-    color: #fffdfd;
+    color: #f3db08;
 }
 
+    
 #logo {
     float: left;
     font-size: 300%;
     padding: 10px;
+}
+
+
+#chef-cooking {
+    height: 600px;
+    width: 100%;
+    background-image: url('images/chef-cooking.jpg')
+
+}
+
+#cover-text, #cover-text h2{
+    color:#f3db08;
+
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: Archivo, sans-serif;
+    letter-spacing: 4px;
+
+    width: 250px;
+    height: 250px;
+    padding: 60px;
+
+    border-style: solid;
+    border-color: rgba(185, 47, 47, 0.7);
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+
+
+    
+    background-color: rgba(206, 62, 62, 0.7);
+
+    bottom: 40px;
+    right: 150px;
+
+    position: absolute;
+
+    text-align: center;
+
+
 }
 
  /* navigation links */
@@ -39,19 +82,15 @@ h1, h2 {
  }
 
  #menu a:hover {
-border-bottom: 1px solid #3a3a3a;
+border-bottom: 1px solid #fffdfd;
 
  }
  .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #fffdfd;
  }
 
- #chef-cooking {
-     height: 600px;
-     width: 100%;
-     background-image: url('images/chef-cooking.jpg')
-
- }
+ 
+ 
 
 
  #menu li {
@@ -64,3 +103,6 @@ border-bottom: 1px solid #3a3a3a;
      text-decoration: none;
      color: inherit;
  }
+
+
+
