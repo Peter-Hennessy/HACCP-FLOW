@@ -30,7 +30,7 @@ h1, h2 {
 
 
 #chef-cooking {
-    height: 600px;
+    height: 625px;
     width: 100%;
     background-image: url('images/chef-cooking.jpg')
 
@@ -42,12 +42,12 @@ h1, h2 {
 }
 
 #cover-text {
-    font-size: 130%;
+    font-size: 110%;
     font-family: Archivo, sans-serif;
     letter-spacing: 4px;
 
-    width: 250px;
-    height: 250px;
+    width: 225px;
+    height: 225px;
     padding: 60px;
 
     border-style: solid;
@@ -55,6 +55,7 @@ h1, h2 {
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
+    
 
 
     
@@ -66,6 +67,20 @@ h1, h2 {
     position: absolute;
 
     text-align: center;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* creates the level of zoom for hero image */
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+ }
 
 
 }
