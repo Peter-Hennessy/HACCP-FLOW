@@ -14,11 +14,23 @@ body {
 
 /* hedaings & logos */
 
+
 h1, h2 {
     font-family: Archivo, sans-serif;
     font-weight: 300;
     letter-spacing: 3px;
     color: #f3db08;
+}
+
+#hero-outer {
+    overflow: hidden;
+
+    position: relative;
+}
+
+#cover-text, #cover-text h2 {
+    color: #f3db08;
+
 }
 
     
@@ -30,9 +42,9 @@ h1, h2 {
 
 
 #chef-cooking {
-    height: 625px;
+    height: 700px;
     width: 100%;
-    background-image: url('images/chef-cooking.jpg')
+    background-image: url('images/chef-cook.jpg');
 
 }
 
@@ -42,36 +54,34 @@ h1, h2 {
 }
 
 #cover-text {
-    font-size: 110%;
+    font-size: 90%;
     font-family: Archivo, sans-serif;
     letter-spacing: 4px;
 
-    width: 225px;
-    height: 225px;
-    padding: 60px;
+    width: 200px;
+    height: 200px;
+    padding: 30px;
 
     border-style: solid;
     border-color: rgba(185, 47, 47, 0.7);
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
-    
-
-
-    
     background-color: rgba(206, 62, 62, 0.7);
 
     bottom: 40px;
-    right: 150px;
+    right: 150px;}
 
-    position: absolute;
+#cover-text {
+    position:absolute;
 
     text-align: center;
 
     animation-name: hero-zoom;
-    animation-duration: 5s;
+    animation-duration: 3s;
     animation-fill-mode: forwards;
 }
+
 
 /* creates the level of zoom for hero image */
 @keyframes hero-zoom {
@@ -82,6 +92,29 @@ h1, h2 {
         transform: scale(1.1);
  }
 
+
+}
+
+#what-we-do {
+    font-size: 110%;
+    font-family: Archivo, sans-serif;
+    letter-spacing: 4px;
+    color: white;
+
+
+    height: 300px;
+    width: 100%;
+    background-color:black;
+    border-top: 4px solid;
+    padding-left: 40px;
+    float: left;
+    margin: 0 auto
+    
+
+}
+#what-we-do, h1 {
+   
+    text-align: center;
 
 }
 
@@ -100,11 +133,13 @@ h1, h2 {
 border-bottom: 1px solid #fffdfd;
 
  }
- .active {
+ .active a:hover{
     border-bottom: 1px solid #fffdfd;
  }
 
- 
+ #demo-section {
+     background-color:rgba(185, 47, 47, 0.7)
+ }
  
 
 
@@ -118,6 +153,10 @@ border-bottom: 1px solid #fffdfd;
      text-decoration: none;
      color: inherit;
  }
+
+
+
+
 
 
 
