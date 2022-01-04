@@ -9,7 +9,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    color: #f3db08;
+    color: #f32b08;
 }
 
 /* hedaings & logos */
@@ -19,18 +19,7 @@ h1, h2 {
     font-family: Archivo, sans-serif;
     font-weight: 300;
     letter-spacing: 3px;
-    color: #f3db08;
-}
-
-#hero-outer {
-    overflow: hidden;
-
-    position: relative;
-}
-
-#cover-text, #cover-text h2 {
-    color: #f3db08;
-
+    color: #f32b08;
 }
 
     
@@ -40,60 +29,77 @@ h1, h2 {
     padding: 10px;
 }
 
-
-#chef-cooking {
-    height: 700px;
+#chef-outer {
+    height: 600px;
     width: 100%;
-    background-image: url('images/chef-cook.jpg');
-
+    overflow: hidden;
+    position: relative;
 }
+#cover-text-outer {
 
-#cover-text, #cover-text h2{
-    color:#f3db08;
-
+    width: 280px;
+    height: 280px;
+    overflow: hidden;
+    position: absolute;
 }
+/* chef-image */
 
-#cover-text {
-    font-size: 90%;
-    font-family: Archivo, sans-serif;
-    letter-spacing: 4px;
-
-    width: 200px;
-    height: 200px;
-    padding: 30px;
-
-    border-style: solid;
-    border-color: rgba(185, 47, 47, 0.7);
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto;
-    background-color: rgba(206, 62, 62, 0.7);
-
-    bottom: 40px;
-    right: 150px;}
-
-#cover-text {
-    position:absolute;
-
-    text-align: center;
-
-    animation-name: hero-zoom;
-    animation-duration: 3s;
-    animation-fill-mode: forwards;
+#chef-image {
+    height: 600px;
+    width: 100;
+    background-image: url('images/chef-cook-2.jpg');
+    
 }
 
 
-/* creates the level of zoom for hero image */
-@keyframes hero-zoom {
+#cover-text, #cover-text h2 {
+    color: #f32b08;
+
+
+}
+
+
+
+ /*creates the level of zoom for cover-text */
+
+ #cover-text {
+     font-size: 100%;
+     font-family: Archivo, sans-serif;
+     letter-spacing: 4px;
+     text-align:center;
+
+     width: 260px;
+     height: 260px;
+     border-radius: 50%;
+     margin:0 auto;
+
+     padding-top: 30px;
+     padding-left: 10px;
+
+    background-color: rgb(252, 228, 11, .7);
+
+     bottom: 30px;
+     right: 150px;
+
+     position: absolute;
+
+     
+animation-name: cover-text-zoom;
+animation-duration: 3s;
+animation-fill-mode: forwards;
+
+
+
+ }
+ 
+ @keyframes cover-text-zoom {
     from{
         transform: scale(1);
     }
     to{
         transform: scale(1.1);
  }
-
-
-}
+ } 
 
 #what-we-do {
     font-size: 110%;
@@ -111,7 +117,7 @@ h1, h2 {
     margin: 0 auto
     
 
-}
+} 
 #what-we-do, h1 {
    
     text-align: center;
@@ -130,11 +136,11 @@ h1, h2 {
  }
 
  #menu a:hover {
-border-bottom: 1px solid #fffdfd;
+border-bottom: 1px solid #0a0a0a;
 
  }
  .active a:hover{
-    border-bottom: 1px solid #fffdfd;
+    border-bottom: 1px solid #0a0a0a;
  }
 
  #demo-section {
@@ -154,9 +160,15 @@ border-bottom: 1px solid #fffdfd;
      color: inherit;
  }
 
+/* login details*/
 
+/*  media queries */
 
-
-
-
-
+@media  screen and(max-width: 1200px) {
+    #chef-image {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+        
+    }
+}
