@@ -27,6 +27,7 @@ h1, h2 {
     float: left;
     font-size: 300%;
     padding: 10px;
+    margin-left: 30px;
 }
 
 #chef-outer {
@@ -101,28 +102,29 @@ animation-fill-mode: forwards;
  }
  } 
 
-#what-we-do {
-    font-size: 110%;
-    font-family: Archivo, sans-serif;
-    letter-spacing: 4px;
-    color: white;
+/* let us work with you  */
 
-
-    height: 300px;
-    width: 100%;
-    background-color:black;
-    border-top: 4px solid;
-    padding-left: 40px;
-    float: left;
-    margin: 0 auto
-    
-
-} 
-#what-we-do, h1 {
-   
-    text-align: center;
+#promise {
+    height: 600px;
 
 }
+ 
+#left-side {
+    padding-top: 30px;
+    width: 47.5%;
+    float: left;
+    background-color: yellow;
+
+}
+
+#right-side {
+    padding-top: 30px;
+    width: 47.5%;
+    float: right;
+    background-color: blue;
+}
+
+
 
  /* navigation links */
 
@@ -164,11 +166,19 @@ border-bottom: 1px solid #0a0a0a;
 
 /*  media queries */
 
-@media  screen and(max-width: 1200px) {
+/*@media  screen and(max-width: 1200px) {
     #chef-image {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
-        
+
     }
-}
+    #cover-text {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+        float: left;
+
+
+    }
+} */
