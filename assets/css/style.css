@@ -3,10 +3,11 @@
 
 
 #demo {
-    height: 600px;
+    height: 250px;
     width: 100%;
-    overflow: hidden;
-    position: relative;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    border: 1px solid;
 }
 
 * {
@@ -88,6 +89,8 @@ h1, h2 {
     width: 100%;
     overflow: hidden;
     position: relative;
+ 
+
 }
 #cover-text-outer {
 
@@ -95,6 +98,7 @@ h1, h2 {
     height: 280px;
     overflow: hidden;
     position: absolute;
+    
 }
 /* chef-image */
 
@@ -103,6 +107,10 @@ h1, h2 {
     width: 100;
     background-image: url('images/chef-cook-2.jpg');
     border: 4px solid whitesmoke;
+    
+ /**animation-name: cover-text-zoom;
+animation-duration: 3s;
+animation-fill-mode: forwards; **/
     
 }
 
@@ -166,8 +174,7 @@ animation-fill-mode: forwards;
 
 #promise {
     height: 450px;
-    /**background-color: #18a7b5;
-    border: 5px solid whitesmoke;**/
+    background-color: #18a7b5;
 
 
 }
@@ -255,6 +262,7 @@ border-bottom: 1px solid #0a0a0a;
 
 footer {
     height: 150px;
+    background-color: #18a7b5;
 }
   h4 {
       color: #fff;
@@ -278,18 +286,28 @@ footer {
     color: #3a3a3a;
 }
 
-   .social-networks { background-color: #3a3a3a;
-}
-    
     
 
 
 /*  media queries */
+
+@media screen and (min-width: 0px) and (max-width: 400px) {
+    body { background-color: #18a7b5; }
+}
+@media screen and (min-width: 401px) and (max-width: 599px) {
+    body { background-color: #18a7b5; }
+}
+@media screen and (min-width: 600px) {
+    body { background-color: #18a7b5; }
+}
+
+
+
 /*  for larger to medium size screens*/
 @media  screen and (max-width: 1200px) {
     #promise {
-        width: 65%;
-        height: 600px;
+        width: 100%;
+        height: 900px;
         margin: 0 auto;
     }
 
@@ -305,7 +323,7 @@ footer {
 }
 #center {
     clear: both;
-    width: 100;
+    width: 100%;
     float: left;
     padding: 0;
 }
@@ -333,7 +351,7 @@ hr {
     }
 
     #promise {
-    width: 90%;
+    width: 65%;
     height: 600px;
     margin: 0 auto;
     }
@@ -344,18 +362,19 @@ width: inherit;
     }
 
     .left-heading h2, .right-heading h2 {
-        width: 100%;
+        width: 90%;
         text-align: center;
 
     }
 
     .left-heading p, .right-heading p {
         text-align: center;
-        padding: 0 20px;}
+        padding: 0 20px;
+    }
 
-        .middle {
+     .middle {
             clear: both;
-            width: 100%;
+            width: 0;
             float: left;
             padding: 0;
         }
