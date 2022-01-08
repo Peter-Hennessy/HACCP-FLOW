@@ -106,7 +106,8 @@ h1, h2 {
     height: 600px;
     width: 100;
     background-image: url('images/chef-cook-2.jpg');
-    border: 4px solid whitesmoke;
+    padding-left: 10px;
+
     
  /**animation-name: cover-text-zoom;
 animation-duration: 3s;
@@ -262,7 +263,7 @@ border-bottom: 1px solid #0a0a0a;
 
 footer {
     height: 150px;
-    background-color: #18a7b5;
+    background-color: #0d0d0e;
 }
   h4 {
       color: #fff;
