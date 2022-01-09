@@ -26,8 +26,8 @@ body {
 
 /* headings & logos */
 
-#request-demo {
-    background-color: #dbdb19;
+/*#request-demo {
+    background-color: #dbdb19;*/
 }
 
 /* navigation links */
@@ -60,6 +60,35 @@ border-bottom: 1px solid #0a0a0a;
      text-decoration: none;
      color: inherit;
  }
+
+ #menu {
+    font-size: 100%;
+    letter-spacing: 2px;
+}
+
+#menu-2, #logo {
+    line-height: 75px;
+}
+
+#menu-2 a:hover {
+border-bottom: 1px solid #0a0a0a;
+
+}
+.active a:hover{
+   border-bottom: 1px solid #0a0a0a;
+}
+
+
+#menu-2 li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu-2 a {
+    text-decoration: none;
+    color: inherit;
+}
 
 /* login details*/
 
@@ -110,14 +139,22 @@ h1, h2 {
     height: 600px;
     width: 100;
     background-image: url('images/chef-cook-2.jpg');
-    padding-left: 10px;
+    padding-left: 10px;}
+
+    #demo-image {
+        height: 600px;
+        width: 100;
+        background-image: url('images/what-we-do.jpg');
+        padding-left: 10px;}
+    
+
 
     
  /**animation-name: cover-text-zoom;
 animation-duration: 3s;
 animation-fill-mode: forwards; **/
     
-}
+
 
 
 #cover-text, #cover-text h2 {
