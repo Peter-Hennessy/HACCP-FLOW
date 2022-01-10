@@ -29,6 +29,11 @@
         </nav>
     </header>
 
+    <br>
+    <br>
+    <br>
+    <br>
+
 <title>
     Request Demo</title>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
@@ -37,22 +42,29 @@
       html, body {
       min-height: 100%;
       padding: 0;
-      margin: 0;
-      font-family: Roboto, sans-serif;
-      font-size: 14px;
+      margin: 0 auto;
+      font-family: Archivo, sans-serif;
+      font-size: 100%;
       color: #1a1918;
       font-weight: 300;
       letter-spacing: 3px;
-      background-image: url('images/what-we-do.jpg');
+
       }
+.image {
+background-image: url('images/what-we-do.jpg');
+
+}
+
       h1 {
       margin: 0 0 20px;
-      font-weight: 400;
+      font-weight: 300;
       color: #1a1918;
       }
       p {
       margin: 0 0 5px;
       }
+      
+
       .main-block {
       display: flex;
       flex-direction: column;
@@ -87,14 +99,14 @@
       outline: none;
       }
       input::placeholder {
-      color: #666;
+      color: #1a1918;
       }
       button {
       width: 100%;
       padding: 10px;
       border: none;
       background: #1c87c9;
-      font-size: 16px;
+      font-size: 100%;
       font-weight: 400;
       color: #fff;
       }
@@ -120,7 +132,7 @@
       margin-top: 2%;
       margin-left: 28%;
       }
-      }
+    }
     </style>
   </head>
   <body>
@@ -131,12 +143,14 @@
         <i class="fas fa-mail-bulk"></i>
       </div>
       <form action="/">
+
         <h1>Request Demo</h1>
         <div class="info">
+            <form action="https://formdump.haccpflow.com" method="POST">
           <input class="fname" type="text" name="name" placeholder="Full name">
           <input type="text" name="name" placeholder="Email">
           <input type="text" name="name" placeholder="Phone number">
-          <input type="text" name="name" placeholder="Website">
+          <input type="text" name="name" placeholder="Company Name">
         </div>
         <p>Message</p>
         <div>
@@ -148,7 +162,6 @@
   </body>
 </html>
 
-<!--Outline of what we offer-->
 
    
 

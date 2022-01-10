@@ -5,104 +5,163 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Digitising the recording of Food Safety Data">
 <meta name="keywords" content="food safety, haccp, kitchen records">
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/style.css" -->
 
-<title>Login Details</title>
-</head>
+<title>HACCP-FLOW</title>
+<section>
 
-    <header>
-        <a href="login.html">
-            <h1 id="logo">Login Details</h1>
-        </a>
-        <nav>
-            <ul id="menu">
-            <li> <a href="demo.html"class="active">Request Demo</a>
+            <html>
 
-                </li>
-                <li> <a href="login.html" class="active">Login</a>
-                </li>
-                <li>
-                    <a href="index.html" class="active">Home</a>
-                </li>
-            </ul>
+            <head>
+                <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Roboto&display=swap" ;>
+                <style>
+                    html,
+                    body {
+                        display: flex;
+                        justify-content: center;
+                        font-family: Roboto, sans-serif;
+                        font-size: 100%;
+                        background-image: url('images/chef-cook-2.jpg');
+                    }
 
-        </nav>
-    </header>
-    
-    <body>
-        <form action="https://formdump.haccpflow.com" method="POST">
+                    form {
+                        border: 5px solid #18a7b5;
+                        padding-top: 70px;
+                    }
 
-            <section id="promise">
-        <h2 id="welcome"></h2>
-        <div id="left-side">
-            <div class="left-heading">
-                <br>
-                <br>
-                <form action="/action_page.php" method="post">
-                    <label for="fname"required>First name:</label>
-                    <input type="text" name="fname" placeholder=" Enter Your Name" aria-label="Your Name" required><br><br>
-                    <label for="email" name="email" placeholder="Enter Your Email" aria-label="Your Email">Email Address:</label>
-                    <input type="text" id="lna name="lname" required><br><br>
-                    <label for="tel">Contact Details:</label>
-                    <input type="text" id="tel" name="tel" required><br><br>
+                    input[type=text],
+                    input[type=password] {
+                        width: 100%;
+                        padding: 16px 8px;
+                        margin: 8px 0;
+                        display: inline-block;
+                        border: 1px solid #ccc;
+                        box-sizing: border-box;
+                    }
 
-                    <input type="submit" value="Submit">
-                  </form>
+                    button {
+                        background-color: #18a7b5;
+                        color: white;
+                        padding: 14px 0;
+                        margin: 10px 0;
+                        border: none;
+                        cursor: grabbing;
+                        width: 100%;
+                    }
+
+                    h1 {
+                        text-align: center;
+                        font-size: 100%;
+                    }
+
+                    button:hover {
+                        opacity: 0.8;
+                    }
+
+                    .formcontainer {
+                        clear: left;
+                        background-size: cover;
+                        background-position: center;
+                        height: 350px;
+                        text-align: left;
+                        margin: 24px 50px 12px;
+
+                    }
+
+                    .container {
+                        padding: 16px 0;
+                        text-align: left;
+                    }
+
+                    span.psw {
+                        float: right;
+                        padding-top: 0;
+                        padding-right: 15px;
+                    }
+
+                    /* Change styles for span on extra small screens */
+                    @media screen and (max-width: 300px) {
+                        span.psw {
+                            display: block;
+                            float: none;
+                        }
+                </style>
+            </head>
+
+            <body>
+                <a href="index.html">
+                    <h1 id="logo">HACCP-FLOW</h1>
+                </a>
+                <nav>
+                    <div>
+                        <ul id="menu">
+                            <li> <a href="login.html" class="active">Login</a>
+                            </li>
+                            <li> <a href="index.html" class="active">Home</a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </nav>
+                </header>
+
+                <body>
+                    <form action="/action_page.php">
+                        <div class="formcontainer">
+                            <hr />
+                            <div class="container">
+                                <label for="uname"><strong>Username</strong></label>
+                                <input type="text" placeholder="Enter Username" name="uname" required>
+                                <label for="psw"><strong>Password</strong></label>
+                                <input type="password" placeholder="Enter Password" name="psw" required>
+                            </div>
+                            <button type="submit">Login</button>
+                            <div class="container">
+                                <label style="padding-left: 15px">
+                                    <input type="checkbox" checked="checked" name="remember"> Remember me
+                                </label>
+                                <span class="psw"><a href="login.html"> Forgot password?</a></span>
+                            </div>
+                    </form>
+        </div>
+    </div>
+    </div>
+    </body>
+    <footer class="social-networks">
+        <div>
+            <div>
+                <ul>
+                    <li>
+                        <a href="https://facebook.com" target="_blank" rel="noopener"
+                            aria-label="Visit our Facebook page (opens in a new tab)">
+                            <i class="fab fa-facebook"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com" target="_blank" rel="noopener"
+                            aria-label="Visit our Twitter page (opens in a new tab)">
+                            <i class="fab fa-twitter-square"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://youtube.com" target="_blank" rel="noopener"
+                            aria-label="Visit our Youtube page (opens in a new tab)">
+                            <i class="fab fa-youtube-square"></i></a>
+                    </li>
+                    <li> <a href="https://instagram.com" target="_blank" rel="noopener"
+                            aria-label="Visit our Imstagram page (opens in a new tab)">
+                            <i class="fab fa-instagram"></i></a>
+                    </li>
+
+                </ul>
             </div>
-                
-    </section>
-    <section>
-
-            
-   <footer class="social-networks">
-    <div>
-        <p>
-            <h4>Contact us: 0214123456</h4>
-            <h4>Address: 25 Moving Terrace,Cork</h4>
-            <h4>Email: info@haccpflow.com</h4>
-        </p>
-     </div>
-
-        <ul>
-            <li>
-                <a href="https://facebook.com" target="_blank" rel="noopener"
-                    aria-label="Visit our Facebook page (opens in a new tab)">
-                    <i class="fab fa-facebook"></i></a>
-            </li>
-            <li>
-                <a href="https://twitter.com" target="_blank" rel="noopener"
-                    aria-label="Visit our Twitter page (opens in a new tab)">
-                    <i class="fab fa-twitter-square"></i></a>
-            </li>
-            <li>
-                <a href="https://youtube.com" target="_blank" rel="noopener"
-                    aria-label="Visit our Youtube page (opens in a new tab)">
-                    <i class="fab fa-youtube-square"></i></a>
-            </li>
-            <li> <a href="https://instagram.com" target="_blank" rel="noopener"
-                    aria-label="Visit our Imstagram page (opens in a new tab)">
-                    <i class="fab fa-instagram"></i></a>
-            </li>
-
-        </ul>
-<DIV>
-<p> &#169 HACCP-FLOW LTD</p>
-</DIV>
+        </div>
 
 
     </footer>
+</section>
 
 
-    <!-- Font awesome script -->
-    <script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
-</body>
-
-</html>
-</footer>
-
-</script>
-
-
+<!-- Font awesome script -->
+<script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
