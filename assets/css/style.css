@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Roboto&display=swap');
 
 
-
-
-
 * {
     margin: 0;
     padding: 0;
@@ -11,9 +8,9 @@
 }
 
 body {
-    font-family: Archivo, sans-serif;
+    font-family: Roboto, sans-serif;
     font-weight: 300;
-    color: #1a1918;
+    color: #0a0a0a;
 
 
 }
@@ -29,6 +26,7 @@ body {
 
  #menu, #logo {
      line-height: 75px;
+     color: #0a0a0a;
  }
 
  #menu a:hover {
@@ -48,7 +46,7 @@ border-bottom: 1px solid #0a0a0a;
 
  #menu a {
      text-decoration: none;
-     color: inherit;
+     color: #0a0a0a;
  }
 
  #menu {
@@ -61,34 +59,8 @@ border-bottom: 1px solid #0a0a0a;
    border-bottom: 1px solid #0a0a0a;
 }
 
-#contact {
-    background-image: url('images/chef-cooking.jpg');
-    height: 600px;
-    padding-bottom: 30px;
-    font-family: Archivo, sans-serif;
-    font-weight: 300;
-    color: #fff;
-    line-height: 30px;
-margin: 0 auto;
-    
-}
 
 /* login details*/
-
-#login {
-    background-image: url('images/what-we-do.jpg');
-    height: 400px;
-    padding: 30px;
-    font-family: Archivo, sans-serif;
-    font-weight: 300;
-    color: #fff;
-    line-height: 75px;
-margin: 0 auto;
-width: 100%
-
-
-}
-
 
     
 #logo {
@@ -211,7 +183,7 @@ animation-fill-mode: forwards;
     clear: both;
     margin-bottom: 40px;
     text-align : left;
-    padding-left: 30px;
+   
 
 
 }
@@ -228,7 +200,7 @@ hr {
     clear: both;
     margin-bottom: 40px;
     text-align : left;
-    padding-right: 30px;
+  
 }
 
 #welcome {
@@ -265,7 +237,7 @@ border-bottom: 1px solid #0a0a0a;
 
  #menu a {
      text-decoration: none;
-     color: inherit;
+     color: #0a0a0a;
  }
 
 /* footer styles*/
@@ -298,18 +270,6 @@ footer {
 
     
 
-
-/*  media queries */
-
-/*@media screen and (min-width: 0px) and (max-width: 400px) {
-    body { background-color: #18a7b5; }
-}
-@media screen and (min-width: 401px) and (max-width: 599px) {
-    body { background-color: #18a7b5; }
-}
-@media screen and (min-width: 600px) {
-    body { background-color: #18a7b5; }
-}*/
 
 
 
@@ -386,9 +346,4 @@ width: inherit;
             clear: both;
             width: 0;
             float: left;
-            padding: 0;
-        }
-
-}
-
-/*  login css*/
+     }
