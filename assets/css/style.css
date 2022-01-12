@@ -192,6 +192,20 @@ color: #fafafa;
    text-align: center;
 }
 
+#form {
+    width: 300px;
+    margin: 0 auto;
+    background-color: rgb(9, 200, 255, 0.6);
+    
+    border-radius: 25px;
+    padding: 20px;
+    height: 300px; 
+    font-family: Roboto sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #fafafa;
+
+}
 
 
 
