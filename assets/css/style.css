@@ -96,14 +96,6 @@ border-bottom: 1px solid #0a0a0a;
 }
 
 
-
-
-#cover-text, #cover-text h2 {
-    color: #1a1918;
-
-
-}
-
 /* Promise-Section*/
 
 #promise {
@@ -130,13 +122,14 @@ border-bottom: 1px solid #0a0a0a;
 #center-side {
     width: 300px;
     margin: 0 auto;
-    background-color: #18a7b5;
+    background-color: rgb(9, 200, 255);
     border-radius: 25px;
     padding: 20px;
     height: 500px; 
     font-family: Bradley Hand, cursive, sans-serif;
     letter-spacing: 1px;
     text-align: center;
+    color: #fafafa;
 }
 
 
@@ -211,6 +204,7 @@ color: #fafafa;
      font-family: Archivo, sans-serif;
      letter-spacing: 4px;
      text-align:center;
+     color: #fafafa;
     
     
      padding-top: 30px;
@@ -228,6 +222,9 @@ animation-name: cover-text-zoom;
 animation-duration: 3s;
 animation-fill-mode: forwards;
  }
+
+ 
+ 
  
  #circle-container {
      width: 250px;
@@ -237,8 +234,11 @@ animation-fill-mode: forwards;
      border-width: 1px;
      border-radius: 50%;
      margin: 0 auto;
-     background-color: yellow;
+     background-color: rgb(9, 200, 255, 0.7);
 
+ }
+ .circle-container h1 h2 {
+     color: #fafafa;
  }
  
  @keyframes cover-text-zoom {
