@@ -8,7 +8,7 @@
 }
 
 body {
-    font-family: Roboto, sans-serif;
+    font-family: Archivo, sans-serif;
     font-weight: 300;
     color: #0a0a0a;
 
@@ -93,6 +93,11 @@ border-bottom: 1px solid #0a0a0a;
     width: 100;
     background-image: url('images/chef-cook-2.jpg');
     padding-left: 10px;
+}
+
+#chef-picture {
+    background-image: url('images/what-we-do.jpg');
+    height: 600px;
 }
 
 
@@ -192,10 +197,11 @@ color: #fafafa;
    text-align: center;
 }
 
-#form {
+/*#form {
     width: 300px;
     margin: 0 auto;
-    background-color: rgb(9, 200, 255, 0.6);
+    background-color: rgb(9, 200, 255, 0.7);
+    font-size: 100%;
     
     border-radius: 25px;
     padding: 20px;
@@ -205,7 +211,94 @@ color: #fafafa;
     text-align: center;
     color: #fafafa;
 
-}
+}*/
+
+
+/* Request Demo Page*/
+
+    /* html, body {
+      min-height: 50%;
+      padding: 0;
+      margin: 0;
+      font-family: Roboto,sans-serif;
+      font-size: 100%;
+      color: #0a0a0a;
+      }
+     /* h1 {
+      margin: 0 0 20px;
+      font-weight: 400;
+      color: #0a0a0a;
+      }
+      
+      .request-demo p {
+      margin: 0 0 5px;
+      }
+      .main-block {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background: rgba(9, 200, 255, 0.7); 
+      }
+      form {
+      padding: 25px;
+      margin: 25px;
+      box-shadow: 0 2px 5px #f5f5f5; 
+      background: rgba(9, 200, 255, 0.7);  
+      float: right;
+
+      }
+      .fas {
+      margin: 25px 10px 0;
+      font-size: 72px;
+      color: #fff;
+      }
+     
+      input, textarea {
+      width: calc(100% - 18px);
+      padding: 8px;
+      margin-bottom: 20px;
+      border: 1px solid #fff;
+      outline: none;
+      }
+      input::placeholder {
+      color: #666;
+      }
+      button {
+      width: 33%;
+      padding: 10px;
+      border: none;
+      background: #0a0a0a;
+      font-size: 16px;
+      font-weight: 400;
+      color: #fff;
+      }
+      button:hover {
+      background:  rgba(9, 200, 255, 0.7); 
+      }    
+      @media (min-width: 568px) {
+      .main-block {
+      flex-direction: row;
+      }
+      .left-part, form {
+      width: 50%;
+      }
+      .fa-envelope {
+      margin-top: 0;
+      margin-left: 20%;
+      }
+      .fa-at {
+      margin-top: -10%;
+      margin-left: 65%;
+      }
+      .fa-mail-bulk {
+      margin-top: 2%;
+      margin-left: 28%;
+      }
+      }
+
+
 
 
 
@@ -215,7 +308,7 @@ color: #fafafa;
 
  #cover-text {
      font-size: 100%;
-     font-family: Archivo, sans-serif;
+     font-family: Roboto, sans-serif;
      letter-spacing: 4px;
      text-align:center;
      color: #fafafa;
@@ -251,9 +344,6 @@ animation-fill-mode: forwards;
      background-color: rgb(9, 200, 255, 0.7);
 
  }
- .circle-container h1 h2 {
-     color: #fafafa;
- }
  
  @keyframes cover-text-zoom {
     from{
@@ -263,8 +353,6 @@ animation-fill-mode: forwards;
         transform: scale(1.1);
  }
  } 
-
-/* let us work with you  */
 
 
    
@@ -293,34 +381,7 @@ hr {
 }
 
  /* navigation links */
- #menu {
-     font-size: 100%;
-     letter-spacing: 2px;
- }
 
- #menu, #logo {
-     line-height: 75px;
- }
-
- #menu a:hover {
-border-bottom: 1px solid #0a0a0a;
-
- }
- .active a:hover{
-    border-bottom: 1px solid #0a0a0a;
- }
-
-
- #menu li {
-     float: right;
-     list-style-type: none;
-     margin-right: 30px;
- }
-
- #menu a {
-     text-decoration: none;
-     color: #0a0a0a;
- }
 
 /* footer styles*/
 
