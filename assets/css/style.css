@@ -46,7 +46,7 @@ border-bottom: 1px solid #0a0a0a;
 
  #menu a {
      text-decoration: none;
-     color: #0a0a0a;
+     color: inherit;
  }
 
  #menu {
@@ -55,7 +55,7 @@ border-bottom: 1px solid #0a0a0a;
 }
 
 
-.active a:hover{
+.active {
    border-bottom: 1px solid #0a0a0a;
 }
 
@@ -402,6 +402,12 @@ footer {
 hr {
     display: none;
 }
+
+
+
+
+
+
 }
 
 /* for medium screen sizes 950px wide and down */
@@ -448,4 +454,15 @@ width: inherit;
             width: 0;
             float: left;
      }
+
+     .demo-request {
+         width: 60%;
+        height: 400px;
+        padding: 20 20 0 20px;
+    }
+    .form-section {
+        width: 100%;
+        float: left;
+        padding: 0 auto;
+    }
     }
