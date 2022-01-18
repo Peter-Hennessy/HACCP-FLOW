@@ -237,7 +237,7 @@ padding-left: 30px;
         width: 50%;
         padding: 10px;
         border: none;
-        background: #3a3a3a;
+        background: #fff;
         font-size: 14px;
         font-weight: 300;
         color: #fff;
@@ -245,35 +245,35 @@ padding-left: 30px;
   
     /* Dummy respnose page*/
 
-    
-
-      .response-page {
-        margin: 150px 30% 10px 0;
-        color: #0a0a0a;
-        background-color: rgba(9, 200, 255, 0.7);
-        width: 400px;
-        height: 400px;
-        
-       
-        position: absolute;
-        left: 10%;
-        padding-top: 130px;
-        padding-right: 150px;
-        padding-bottom: 130px;
-        padding-left: 130px;
-        }
-             
-         
-
-      .response-page {
+    .reply-section {
 
         clear: left;
-        background: url('images/what-we-do.jpg');
+        background: url('images/footer-food.jpg');
         background-size: cover;
         background-position: center;
         height: 900px;
+        font-size: 50px;
       }
-     
+
+    
+    #reply div {
+    color: #fff;
+       height: 400px;
+       padding-top: 80px;
+       float: right;
+       margin: 0 auto;
+       width: 100%;
+       text-align: center;
+       background-color: rgba(0, 0, 0, .6); 
+       
+    }
+        
+       
+        
+             
+         
+
+      
       /* 
 
 
