@@ -166,6 +166,7 @@ hr {
 
 #details {
     background-image: url('images/food-footer.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
     overflow: hidden;
@@ -279,6 +280,7 @@ padding-left: 30px;
 
         clear: left;
         background: url('images/footer-food.jpg');
+        background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
         height: 600px;
