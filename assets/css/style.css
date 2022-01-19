@@ -129,6 +129,11 @@ border-bottom: 1px solid #0a0a0a;
     
 }
 
+#center-side a {
+    color: #fff;
+    font-size: 150%;
+}
+
 
 
 
@@ -279,7 +284,7 @@ padding-left: 30px;
     .reply-section {
 
         clear: left;
-        background: url('images/footer-food.jpg');
+        background: url('images/footer-food.avif');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
