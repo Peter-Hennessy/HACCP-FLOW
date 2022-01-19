@@ -400,9 +400,21 @@ footer {
 /*  for larger to medium size screens*/
 @media  screen and (max-width: 1200px) {
     #promise {
-        width: 65%;
+        width: 90%;
         height: 1200px;
         margin: 0 auto;
+    }
+
+    .left-side-heading, .right-side-heading {
+        width: inherit;
+    }
+
+    .left-side-heading h2, .right-side-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+    .left-side-heading p, .right-side-heading p {
+        text-align: center;
     }
 
     #welcome {
@@ -470,8 +482,8 @@ width: inherit;
     } 
     
     .left-side-heading p, .right-side-heading p {
-        width: 100%;
         text-align: center;
+        padding: 0 20px;
 
     } 
 
