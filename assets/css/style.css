@@ -251,8 +251,17 @@ padding-left: 30px;
         background: url('images/footer-food.jpg');
         background-size: cover;
         background-position: center;
-        height: 900px;
-        font-size: 50px;
+        height: 600px;
+        letter-spacing: 1px;
+      }
+
+      .reply-section h2 {
+          font-size: 40px;
+
+      }
+
+      .reply-section p {
+          font-size: 20px;
       }
 
     
