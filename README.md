@@ -18,7 +18,7 @@ The concept for my project is a company i am in the process of creating, It is a
     *  [Colour Scheme](<#colour-scheme>)
 * [**Features**](<#features>)
     * [**Home**](<#navigation-menu>)
-         * [Navigation menu](<#navigation-menu>)
+         * [Home](<#home>)
          * [About-us](<#about-us>)
          * [Contact-Us](<#contact-us>)
          * [Footer](<#footer>)
@@ -39,15 +39,23 @@ The concept for my project is a company i am in the process of creating, It is a
 - As a user I need to be able to see clearly where i want to go
 - As a user I need to be able to see text and images clearly 
 - As a user I need to be able to contact the company with relative ease
-- As A user I need the page to load efficently 
-- As a user I
+- As A user I need the page to load efficently to add to the user experience
 - 
 
 # Wireframes
+# [Insert Wireframe images here]
+- For the wire frame design I chose to have the main information on a singe scroll page with link to the section via the Navigation bar menu
+- The screen layout is for a pc screen and also an Iphone
+- As seen on the full width screen, the "About Us" section is designed to read left and right with a statement about who we are and how we can work with you in the Middle
+- On the Mobile phone screen all information falls to a vertical perspective with the About us sectiuon falling to the end [loving running Club-Ethos section]
+- On the mobile image the Company statement with the focus on flow, floats to the left, but retains it animation of moving forward
+- 
+
 
 # Site Structure
+The static webpage is designed in three seperate inforamtive sections, the Main image with animation circle to draw the attention if the browser with the nav bar in the upper right han corner. This Nav bar contains the #Home which is underlined to let the user know what page they are currently on. Then followwd by the  # about-us which when clicked will bring the user to the middle of the page. And finally the[Contact-Us](<#contact-us>) which when clicled will bring you the the bottom sewction of the page with email link & map  direction link
 
-# Design Choice
+# Design Choice 
 
 # Typography
 
