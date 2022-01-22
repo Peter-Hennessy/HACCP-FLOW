@@ -33,7 +33,7 @@ The concept for my project is a company i am in the process of creating, It is a
 
 # [insert responsive image here]
 
-### [User Stories]
+# User Stories
 - As a user I want to be able to see the main webpage heading first
 - As a user I need to be able to see clearly where i want to go
 - As a user I need to be able to see text and images clearly 
