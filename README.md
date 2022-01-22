@@ -20,8 +20,9 @@ The concept for my project is a company i am in the process of creating, It is a
     * [**Home**](<#navigation-menu>)
          * [Navigation menu](<#navigation-menu>)
          * [About-us](<#about-us>)
+         * [Contact-Us](<#contact-us>)
          * [Footer](<#footer>)
-    * [**Form Confirmation**](<#form-confirmation>)
+    * [**Request Demo**](<#request-demo>)
     * [**Future Features**](<#future-features>)
 * [**Technologies Used**](<#technologies-used>)
 * [**Testing**](<#testing>)
@@ -41,7 +42,42 @@ The concept for my project is a company i am in the process of creating, It is a
 - As A user I need the page to load efficently 
 - As a user I
 - 
-- 
+
+# Wireframes
+
+# Site Structure
+
+# Design Choice
+
+# Typography
+
+# Color Scheme
+
+# Home
+- Navigation Menu
+- About Us
+- Contact Us
+- Footer
+
+# Request Demo
+
+# Future Features
+
+# Technologies Used
+
+# Testing
+
+# Deployment
+
+# Credits
+
+# Content
+
+# Media
+
+# Acknowledgements
+
+
 
    
    
