@@ -14,8 +14,8 @@ The concept for my project is a company i am in the process of creating, It is a
     * [Wireframes](<#wireframes>)
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
-    *  [Typography](<#typography>)
-    *  [Colour Scheme](<#colour-scheme>)
+    *  [Typography](<##typography>)
+    *  [Colour Scheme](<##colour-scheme>)
 * [**Features**](<#features>)
     * [**Home**](<#navigation-menu>)
          * [Home](<#home>)
@@ -57,9 +57,13 @@ The static webpage is designed in three seperate informative sections, the Main 
 
 # Design Choice 
 
-# Typography
+- ## Typography
+For my project I decided to choose two fonts, Archivo as the text font and Roboto as the contrasting  heading font with a default font of Sans-Serif. 
+* 'Archivo' The Reason I chose this contrasting style is because the reading  text is clear for the user to see. 
+* 'Roboto' is used for the  heading text  which looks  solid prominent and straight, which i feel adds a nice contrast when the user is reading the page
 
-# Color Scheme
+## Color Scheme
+For this project I decided on a traditional color scheme of b 
 
 # Home
 - Navigation Menu
