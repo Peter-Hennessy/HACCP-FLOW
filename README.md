@@ -52,7 +52,7 @@ The concept for my project is a company I am in the process of creating, It is a
 - On the Mobile phone screen all information falls to a vertical perspective with the About us section falling to the end [loving running Club-Ethos section]
 - On the mobile image the Company statement with the focus on flow, floats to the left, but retains it animation of moving forward
 - 
-
+ [Top](<#contents>)
 
 # Site Structure
 The static webpage is designed in three separate informative sections, the Main image with animation circle to draw the attention of the User with the nav bar in the upper right-hand corner. This Nav bar contains the  [Home](<#home>) which is underlined to let the user know what page they are currently on. Then followed by the  [About-us](<#about-us>) which when clicked will bring the user to the middle of the page. In the About section in the middle there is a [Request Demo](<#request-demo>) which will bring you to another page where the user will find a form, On completing this form the Submit button will be clicked which then will bring you to a reply page, And finally the [Contact-Us](<#contact-us>) which when clicked will bring you the bottom section of the page with email link & map  direction link. This structure is drafted in the [Wireframes](<#wireframes>) Section
