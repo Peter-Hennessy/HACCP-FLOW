@@ -14,8 +14,6 @@ The concept for my project is a company I am in the process of creating, It is a
     * [Wireframes](<#wireframes>)
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
-    *  [Typography](<##typography>)
-    *  [Colour Scheme](<##colour-scheme>)
     
 * [**Features**](<#features>)
     * [**Home**](<#navigation-menu>)
@@ -51,11 +49,13 @@ The concept for my project is a company I am in the process of creating, It is a
 - As seen on the full width screen, the "About Us" section is designed to read left and right with a statement about who we are and how we can collaborate with you in the Middle
 - On the Mobile phone screen all information falls to a vertical perspective with the About us section falling to the end [loving running Club-Ethos section]
 - On the mobile image the Company statement with the focus on flow, floats to the left, but retains it animation of moving forward
-- 
+
  [Top](<#contents>)
 
 # Site Structure
 The static webpage is designed in three separate informative sections, the Main image with animation circle to draw the attention of the User with the nav bar in the upper right-hand corner. This Nav bar contains the  [Home](<#home>) which is underlined to let the user know what page they are currently on. Then followed by the  [About-us](<#about-us>) which when clicked will bring the user to the middle of the page. In the About section in the middle there is a [Request Demo](<#request-demo>) which will bring you to another page where the user will find a form, On completing this form the Submit button will be clicked which then will bring you to a reply page, And finally the [Contact-Us](<#contact-us>) which when clicked will bring you the bottom section of the page with email link & map  direction link. This structure is drafted in the [Wireframes](<#wireframes>) Section
+
+ [Top](<#contents>)
 
 # Design Choices 
 
@@ -67,6 +67,8 @@ For my project I decided to choose two fonts, Archivo as the text font and Robot
 - ### Color Scheme
 For this project I decided on a traditional color scheme of #0a0a0a which in a very _Dark Gray (mostly black)_ and #fff which is a _White_, and rgb(9,200,255) which is a shade of _Teal_ which adds a nice blast of fresh modern color in the section that needs to stand out, like the 'About us' section and also the 'Form' section. It makes the site look modern & fresh which is what I set out to do from the beginning. Both White and Black text contrast nicely with the shade of Teal. 
 # [ADD COLOR CHART HERE ??]
+
+ [Top](<#contents>)
 
 # Home Page
 ### Navigation Menu
@@ -84,24 +86,43 @@ The Contact Us section contains all the relevent ways to contact us via Email, T
 - #### Footer
 This section conatins all Social Media Links which when selected will open in a separate page
 
+ [Top](<#contents>)
+
 
 # Request Demo
 
+ [Top](<#contents>)
+
 # Future Features
 
+ [Top](<#contents>)
 # Technologies Used
+
+ [Top](<#contents>)
 
 # Testing
 
+ [Top](<#contents>)
+
 # Deployment
+
+ [Top](<#contents>)
 
 # Credits
 
+ [Top](<#contents>)
+
 # Content
+
+ [Top](<#contents>)
 
 # Media
 
+ [Top](<#contents>)
+
 # Acknowledgements
+
+ [Top](<#contents>)
 
 
 
