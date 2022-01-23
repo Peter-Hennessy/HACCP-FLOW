@@ -16,13 +16,15 @@ The concept for my project is a company I am in the process of creating, It is a
     * [Design Choices](<#design-choices>)
     *  [Typography](<##typography>)
     *  [Colour Scheme](<##colour-scheme>)
+    
 * [**Features**](<#features>)
     * [**Home**](<#navigation-menu>)
          * [Home](<#home>)
-         * [About-us](<#about-us>)
-         * [Contact-Us](<#contact-us>)
-         * [Footer](<#footer>)
-    * [**Request Demo**](<#request-demo>)
+         * [About-us](<#home>)
+         * [Contact-Us](<#home>)
+         * [Footer](<#home>)
+         * [Request Demo](<#request-demo>)
+       
     * [**Future Features**](<#future-features>)
 * [**Technologies Used**](<#technologies-used>)
 * [**Testing**](<#testing>)
@@ -68,9 +70,20 @@ For this project I decided on a traditional color scheme of #0a0a0a which in a v
 
 # Home Page
 ### Navigation Menu
-- About Us
-- Contact Us
-- Footer
+This is situated in the upper right hand corner of the across all three pages to create continuity across the platform. Starting left to right this includes the following:
+
+- #### Home 
+This section has the landing Image with the Animated Circle cover text, this is created to draw the attention of the user to what the company does in a short brief text, but enough to draw curiosity of the user to look further
+
+- #### About Us
+The About Us section gives a detailed offering of what the compnay can offer with the Welcoming Statement "Let Us Work With You!!" This section contains a video link in the _Avoid Legal Action_ to explain the importance of correct HACCP . It also contains a link to the [Request Demo](<request-demo>) which can be seen below. 
+
+- #### Contact Us
+The Contact Us section contains all the relevent ways to contact us via Email, Telephone or Location with a Font Awesome link to re-direct the user to the desired option
+
+- #### Footer
+This section conatins all Social Media Links which when selected will open in a separate page
+
 
 # Request Demo
 
