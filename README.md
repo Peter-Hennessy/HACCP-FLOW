@@ -35,7 +35,7 @@ The concept for my project is a company I am in the process of creating, It is a
     * [**Media**](<#media>)
 *  [**Acknowledgements**](<#acknowledgements>)
 
-![HACCP-FLOW responsive design](assets/readme-images/responsive.png)
+![HACCP-FLOW responsive design](assets/css/images/readme-images/responsive-image.jpg)
 
 
 # User Stories
