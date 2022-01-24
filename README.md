@@ -7,6 +7,8 @@ It is a cloud based digital food safety management system that is designed to me
 The design I have decided to go with is a clean, clear, simplistic platform. Which is relatable to my company idea. 
 The concept for my project is a company I am in the process of creating, It is a company conceived through my own work practices as a head & market study with over 50 of my industry peers to design a cloud based digital food safety platform
 
+![HACCP-FLOW responsive design](images/readme-images/responsive.png)
+
 # Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
@@ -29,7 +31,7 @@ The concept for my project is a company I am in the process of creating, It is a
 * [**Testing**](<#testing>)
 * [**Deployment**](<#deployment>)
 * [**Credits**](<#credits>)
-    * [**Content**](<#content>)
+* [Content](<###content>)
     * [**Media**](<#media>)
 *  [**Acknowledgements**](<#acknowledgements>)
 
@@ -41,6 +43,7 @@ The concept for my project is a company I am in the process of creating, It is a
 - As a user I need to be able to see text and images clearly 
 - As a user I need to be able to contact the company with relative ease
 - As A user I need the page to load efficiently to add to the user experience
+- 
 
 # Wireframes
 # [Insert Wireframe images here]
@@ -102,7 +105,7 @@ The Form has six text areas to fill, Name, Email, Phone Number, Company Name, Te
 When clicking the Submit Button this will direct the User to another page with a  Reply message of receipt of the Enquiry
 
 - ### Reply
-The Reply Page
+The Reply Page is desinged with the similiar to the form page with a Thank you message t acknowledge receipt of request
 
  
  
@@ -146,21 +149,29 @@ The method from cloning a project from GitHub is below:
  [Top](<#contents>)
 
 # Credits
+### Content
 
- [Top](<#contents>)
+* The font came from [Google Fonts](https://fonts.google.com/).
+* The locator is embedded from [Google Maps](https://www.google.com/maps).
+* The icons came from [Font Awesome](https://fontawesome.com/).
+* The form structure was found on [W3 schools](https://www.w3schools.com/howto/howto_css_contact_form.asp)
+* The inspiration for the Project page layout came from the [Love Running]
+* [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
 
-# Content
 
  [Top](<#contents>)
 
 # Media
+ * All Media Images were down loaded from [Pexel](https://www.pexels.com/) and formated to fit the screen size with [Photo Pad](https://www.nchsoftware.com/photoeditor/index.html)
 
  [Top](<#contents>)
 
 # Acknowledgements
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). I would like to thank my Mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for his patience, inderstanding & guidance, Also Help from the Slack Community [Dave Bowers](#) for his help with a few issues I had. And last but certainly not least [Kasia Boguka](https://github.com/bezebee) for her help & guidance with the project
 
  [Top](<#contents>)
 
 
 
+   
    
