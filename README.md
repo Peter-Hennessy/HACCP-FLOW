@@ -33,7 +33,7 @@ The concept for my project is a company I am in the process of creating, It is a
     * [**Media**](<#media>)
 *  [**Acknowledgements**](<#acknowledgements>)
 
-![Reposnive Image](assets/readme-images/assets/css/images/responsive-image.jpg)
+# [insert responsive image here]
 
 # User Stories
 - As a user I want to be able to see the main webpage heading first
@@ -41,7 +41,6 @@ The concept for my project is a company I am in the process of creating, It is a
 - As a user I need to be able to see text and images clearly 
 - As a user I need to be able to contact the company with relative ease
 - As A user I need the page to load efficiently to add to the user experience
-- 
 
 # Wireframes
 # [Insert Wireframe images here]
@@ -163,3 +162,5 @@ The method from cloning a project from GitHub is below:
  [Top](<#contents>)
 
 
+
+   
