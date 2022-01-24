@@ -47,7 +47,7 @@ The concept for my project is a company I am in the process of creating, It is a
 - 
 
 # Wireframes
-# [Insert Wireframe images here]
+![Wireframes Image](assets/css/images/wireframes.png)
 - For the wire frame design, I chose to have the main information on a single scroll page with link to the section via the Navigation bar menu
 - The screen layout is for a pc screen and an iPhone
 - As seen on the full width screen, the "About Us" section is designed to read left and right with a statement about who we are and how we can collaborate with you in the Middle
