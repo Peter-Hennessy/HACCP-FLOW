@@ -99,7 +99,7 @@ This section is embedded in the About Us Section, it has a contarsting color to 
  
  # Request Demo Page
  
- #[Place screen shot of demo page here!]
+ ![HACCP-FLOW](assets/css/images/readme-images/request-demo.png)
  
 - ### Design
 For this page I changed the backgorund landing image to add a sense of redirection and interaction, while still maintaining the Core Head & Footer Structure. A form is the palced to the left of the page again using the contrasting Teal Background Color
