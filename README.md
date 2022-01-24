@@ -78,7 +78,7 @@ For this project I decided on a traditional color scheme of #0a0a0a which in a v
 This is situated in the upper right hand corner of the across all three pages to create continuity across the platform. Starting left to right this includes the following:
 
 - #### Home
-![HACCP-FLOW landing page](assets/css/images/readme-images/landing-page.png) 
+![HACCP-FLOW landing page](assets/css/images/readme-images/landing-page-2.png)
 This section has the landing Image with the Animated Circle cover text, this is created to draw the attention of the user to what the company does in a short brief text, but enough to draw curiosity of the user to look further
 
 - #### About Us
