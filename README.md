@@ -133,22 +133,14 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
   The live link to the Github repository can be found here -  https://github.com/Peter-Hennessy/HACCP-FLOW
 
-### **To fork the repository on GitHub**
-A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
-1. Log in to **GitHub** and locate the [repository](https://github.com/Peter-Hennessy/HACCP-FLOW)
-2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
-![GitHub forking process image](assets/readme-images/forking.png)
-
 ### **To create a local clone of this project**
 The method from cloning a project from GitHub is below:
 
 1. Under the repository’s name, click on the **code** tab.
 2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
-![Cloning image](assets/readme-images/clone.png)
-3. In your IDE of choice, open **Git Bash**.
+3. In your IDE of choice, open **GitHub Desktop**.
 4. Change the current working directory to the location where you want the cloned directory to be made.
-5. Type **git clone**, and then paste the URL copied from GitHub.
-6. Press **enter** and the local clone will be created.
+5. Press **clone**, and a local clone will be created
 
 
 
