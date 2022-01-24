@@ -31,7 +31,7 @@ The concept for my project is a company I am in the process of creating, It is a
 * [**Testing**](<#testing>)
 * [**Deployment**](<#deployment>)
 * [**Credits**](<#credits>)
-    * [**Content**](<###content>)
+* [Content](<###content>)
     * [**Media**](<#media>)
 *  [**Acknowledgements**](<#acknowledgements>)
 
@@ -162,10 +162,12 @@ The method from cloning a project from GitHub is below:
  [Top](<#contents>)
 
 # Media
+ * All Media Images were down loaded from [Pexel](https://www.pexels.com/) and formated to fit the screen size with [Photo Pad](https://www.nchsoftware.com/photoeditor/index.html)
 
  [Top](<#contents>)
 
 # Acknowledgements
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). I would like to thank my Mentor [Precious Liege](https://code-institute-room.slack.com/team/USMD0GEAD) for his patience, inderstanding & guidance, Also Help from the Slack Community [Dave Bowers](https://code-institute-room.slack.com/team/U01S8AW4PT9) for his help with a few issues I had. And last but certainly not least [Kasia Boguka](https://code-institute-room.slack.com/team/U01UQRQAY3Y) for her help & guidance with the project
 
  [Top](<#contents>)
 
