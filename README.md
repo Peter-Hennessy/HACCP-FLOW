@@ -68,7 +68,7 @@ For my project I decided to choose two fonts, Archivo as the text font and Robot
 
 - ### Color Scheme
 For this project I decided on a traditional color scheme of #0a0a0a which in a very _Dark Gray (mostly black)_ and #fff which is a _White_, and rgb(9,200,255) which is a shade of _Teal_ which adds a nice blast of fresh modern color in the section that needs to stand out, like the 'About us' section and also the 'Form' section. It makes the site look modern & fresh which is what I set out to do from the beginning. Both White and Black text contrast nicely with the shade of Teal. 
-# [ADD COLOR CHART HERE ??]
+
 
  [Top](<#contents>)
 # Features
