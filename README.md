@@ -31,7 +31,7 @@ The concept for my project is a company I am in the process of creating, It is a
 * [**Testing**](<#testing>)
 * [**Deployment**](<#deployment>)
 * [**Credits**](<#credits>)
-    * [**Content**](<#content>)
+    * [**Content**](<###content>)
     * [**Media**](<#media>)
 *  [**Acknowledgements**](<#acknowledgements>)
 
@@ -149,10 +149,15 @@ The method from cloning a project from GitHub is below:
  [Top](<#contents>)
 
 # Credits
+### Content
 
- [Top](<#contents>)
+* The font came from [Google Fonts](https://fonts.google.com/).
+* The locator is embedded from [Google Maps](https://www.google.com/maps).
+* The icons came from [Font Awesome](https://fontawesome.com/).
+* The form structure was found on [W3 schools](https://www.w3schools.com/howto/howto_css_contact_form.asp)
+* The inspiration for the Project page layout came from the [Love Running]
+* [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
 
-# Content
 
  [Top](<#contents>)
 
