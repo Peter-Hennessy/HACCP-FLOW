@@ -7,6 +7,8 @@ It is a cloud based digital food safety management system that is designed to me
 The design I have decided to go with is a clean, clear, simplistic platform. Which is relatable to my company idea. 
 The concept for my project is a company I am in the process of creating, It is a company conceived through my own work practices as a head & market study with over 50 of my industry peers to design a cloud based digital food safety platform
 
+![HACCP-FLOW responsive design](images/readme-images/responsive.png)
+
 # Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
@@ -103,7 +105,7 @@ The Form has six text areas to fill, Name, Email, Phone Number, Company Name, Te
 When clicking the Submit Button this will direct the User to another page with a  Reply message of receipt of the Enquiry
 
 - ### Reply
-The Reply Page
+The Reply Page is desinged with the similiar to the form page with a Thank you message t acknowledge receipt of request
 
  
  
