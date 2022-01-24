@@ -5,9 +5,7 @@
 The idea for my project comes from a business idea I am currently in the process of trying to create.
 It is a cloud based digital food safety management system that is designed to meet the needs of the individual.
 The design I have decided to go with is a clean, clear, simplistic platform. Which is relatable to my company idea. 
-The concept for my project is a company I am in the process of creating, It is a company conceived through my own work practices as a head & market study with over 50 of my industry peers to design a cloud based digital food safety platform
-
-![HACCP-FLOW responsive design](images/readme-images/responsive.png)
+The concept for my project is a company I am in the process of creating; it is a company conceived through my own work practices as a head & market study with over 50 of my industry peers to design a cloud based digital food safety platform
 
 # Contents
 
@@ -40,17 +38,17 @@ The concept for my project is a company I am in the process of creating, It is a
 
 # User Stories
 - As a user I want to be able to see the main webpage heading first
-- As a user I need to be able to see clearly where i want to go
+- As a user I need to be able to see clearly where I want to go
 - As a user I need to be able to see text and images clearly 
 - As a user I need to be able to contact the company with relative ease
 - As A user I need the page to load efficiently to add to the user experience
-- 
+
 
 # Wireframes
 ![HACCP-FLOW wireframes](assets/css/images/wireframes.png)
 - For the wire frame design, I chose to have the main information on a single scroll page with link to the section via the Navigation bar menu
 - The screen layout is for a pc screen and an iPhone
-- As seen on the full width screen, the "About Us" section is designed to read left and right with a statement about who we are and how we can collaborate with you in the Middle
+- As seen on the full width screen, the "About Us" section which is designed to read left and right with a statement about who we are and how we can collaborate with you in the Middle
 - On the Mobile phone screen all information falls to a vertical perspective with the About us section falling to the end [loving running Club-Ethos section]
 - On the mobile image the Company statement with the focus on flow, floats to the left, but retains it animation of moving forward
 
@@ -66,7 +64,7 @@ The static webpage is designed in three separate informative sections, the Main 
 - ### Typography
 For my project I decided to choose two fonts, Archivo as the text font and Roboto as the contrasting heading font with a default font of Sans-Serif. 
 * 'Archivo' The Reason I chose this contrasting style is because the reading text is clear for the user to see. 
-* 'Roboto' is used for the heading text which looks  solid prominent and straight, which I feel adds a nice contrast when the user is reading the page
+* 'Roboto' is used for the heading text which looks solid prominent and straight, which I feel adds a nice contrast when the user is reading the page
 
 - ### Color Scheme
 For this project I decided on a traditional color scheme of #0a0a0a which in a very _Dark Gray (mostly black)_ and #fff which is a _White_, and rgb(9,200,255) which is a shade of _Teal_ which adds a nice blast of fresh modern color in the section that needs to stand out, like the 'About us' section and also the 'Form' section. It makes the site look modern & fresh which is what I set out to do from the beginning. Both White and Black text contrast nicely with the shade of Teal. 
@@ -75,9 +73,9 @@ For this project I decided on a traditional color scheme of #0a0a0a which in a v
  [Top](<#contents>)
 # Features
 ### Navigation Menu
-This is situated in the upper right hand corner of the across all three pages to create continuity across the platform. Starting left to right this includes the following:
+This is situated in the upper right-hand corner of the across all three pages to create continuity across the platform. Starting left to right this includes the following:
 
-- #### Home
+- #### Home 
 ![HACCP-FLOW landing page](assets/css/images/readme-images/landing-page-2.png)
 This section has the landing Image with the Animated Circle cover text, this is created to draw the attention of the user to what the company does in a short brief text, but enough to draw curiosity of the user to look further
 
@@ -87,29 +85,28 @@ The About Us section gives a detailed offering of what the company can offer wit
 
 - #### Contact Us
 ![HACCP-FLOW](assets/css/images/readme-images/footer.png)
-The Contact Us section contains all the relavent ways to contact us via Email, Telephone or Location with a Font Awesome link to re-direct the user to the desired option
+The Contact Us section contains all the relevant ways to contact us via Email, Telephone or Location with a Font Awesome link to re-direct the user to the desired option
 
 - #### Footer
-This section contains all Social Media Links which when selected will open in a separate page. The Social Media links are the to enhance the User Experience, They are set in a square Font Aawesome format to contrast other elements on the page and also adds a Clean design to the foot of the page 
+This section contains all Social Media Links which when selected will open in a separate page. The Social Media links are the to enhance the User Experience, They are set in a square Font Awesome format to contrast other elements on the page and also adds a Clean design to the foot of the page 
 
 - #### Request Demo
-This section is embedded in the About Us Section, it has a contarsting color to the rest of the text and it is situated on a teal backround to stand out on the page. This link will redirect you to another page with a form to fill and submit
+This section is embedded in the About Us Section, it has a contrasting color to the rest of the text and it is situated on a teal background to stand out on the page. This link will redirect you to another page with a form to fill and submit
 
  [Top](<#contents>)
  
  # Request Demo Page
- 
- ![HACCP-FLOW](assets/css/images/readme-images/request-demo.png)
+  ![HACCP-FLOW](assets/css/images/readme-images/request-demo.png)
  
 - ### Design
-For this page I changed the backgorund landing image to add a sense of redirection and interaction, while still maintaining the Core Head & Footer Structure. A form is the palced to the left of the page again using the contrasting Teal Background Color
+For this page I changed the background landing image to add a sense of redirection and interaction, while still maintaining the Core Head & Footer Structure. A form is the placed to the left of the page again using the contrasting Teal Background Color
 
 - ### Form
 The Form has six text areas to fill, Name, Email, Phone Number, Company Name, Text Area & Submit with a Required Command in every area. The reason for this type of form is get as much information as possible from the User easily, again to make the Experience as easy as possible.
-When clicking the Submit Button this will direct the User to another page with a  Reply message of receipt of the Enquiry
+When clicking the Submit Button this will direct the User to another page with a Reply message of receipt of the Enquiry
 
 - ### Reply
-The Reply Page is desinged with the similiar to the form page with a Thank you message t acknowledge receipt of request
+The Reply Page is designed with the similar to the form page with a Thank you message  to acknowledge receipt of request
 
  
  
@@ -131,7 +128,7 @@ The Reply Page is desinged with the similiar to the form page with a Thank you m
 ### **To deploy the project**
 The site was deployed to GitHub pages. The steps to deploy a site are as follows:
   1. In the GitHub repository, navigate to the **Settings** tab.
-  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  2. Once in Settings, navigate to the **Pages** tab on the left-hand side.
   3. Under **Source**, select the branch to **master**, then click **save**.
   4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
@@ -166,12 +163,12 @@ The method from cloning a project from GitHub is below:
  [Top](<#contents>)
 
 # Media
- * All Media Images were down loaded from [Pexel](https://www.pexels.com/) and formated to fit the screen size with [Photo Pad](https://www.nchsoftware.com/photoeditor/index.html)
+ * All Media Images were down loaded from [Pexel](https://www.pexels.com/) and formatted to fit the screen size with [Photo Pad](https://www.nchsoftware.com/photoeditor/index.html)
 
  [Top](<#contents>)
 
 # Acknowledgements
-The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). I would like to thank my Mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for his patience, inderstanding & guidance, Also Help from the Slack Community [Dave Bowers](#) for his help with a few issues I had. And last but certainly not least [Kasia Boguka](https://github.com/bezebee) for her help & guidance with the project
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). I would like to thank my Mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for his patience, understanding & guidance, Also Help from the Slack Community [Dave Bowers](https://github.com/dnlbowers) for his help with a few issues I had. And last but certainly not least [Kasia Boguka](https://github.com/bezebee) for her help & guidance with the project
 
  [Top](<#contents>)
 
