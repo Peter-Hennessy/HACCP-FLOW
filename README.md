@@ -167,7 +167,7 @@ The method from cloning a project from GitHub is below:
  [Top](<#contents>)
 
 # Acknowledgements
-The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). I would like to thank my Mentor [Precious Liege](https://code-institute-room.slack.com/team/USMD0GEAD) for his patience, inderstanding & guidance, Also Help from the Slack Community [Dave Bowers](https://code-institute-room.slack.com/team/U01S8AW4PT9) for his help with a few issues I had. And last but certainly not least [Kasia Boguka](https://code-institute-room.slack.com/team/U01UQRQAY3Y) for her help & guidance with the project
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). I would like to thank my Mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for his patience, inderstanding & guidance, Also Help from the Slack Community [Dave Bowers](#) for his help with a few issues I had. And last but certainly not least [Kasia Boguka](https://github.com/bezebee) for her help & guidance with the project
 
  [Top](<#contents>)
 
