@@ -35,7 +35,8 @@ The concept for my project is a company I am in the process of creating, It is a
     * [**Media**](<#media>)
 *  [**Acknowledgements**](<#acknowledgements>)
 
-# [insert responsive image here]
+![HACCP-FLOW responsive design](assets/readme-images/responsive.png)
+
 
 # User Stories
 - As a user I want to be able to see the main webpage heading first
