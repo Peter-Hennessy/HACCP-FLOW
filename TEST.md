@@ -6,15 +6,15 @@ The HTML validator results for each page are below:
 
 * Home page
 
-![W3C Validator test result](assets/readme-images/w3ctesting.png)
+![W3C Validator test result](assets/css/images/readme-images/validator.png)
+
 
 * Request Demo page
 
-![W3C Validator test result](assets/readme-images/w3ctesting.png)
+![W3C Validator test result](assets/css/images/readme-images/validator.png)
 
 * Response page
+The CSS validator results are below:
 
-![W3C Validator test result](assets/readme-images/w3ctesting.png)
-
-
+![CSS Validator test result](assets/css/images/readme-images/validator.png)
 
