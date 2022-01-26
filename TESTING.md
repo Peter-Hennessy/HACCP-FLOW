@@ -27,35 +27,33 @@ Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, Functiona
 
 # Testing User Stories
 
-- As a user I want to be able to be drawn into the page
+- ### As a user I want to be able to be drawn into the page
 
   - When the page is opened by the User and they are drawn to a familiar image, and the one-line statement outlining what HACCP-FLOW can offer
 
    <br>
 
-- As a user I need to be able to see clearly where I want to go
+- ### As a user I need to be able to see clearly where I want to go
 
   - The User will be introduced to the familiar layout with the company name in the upper left-hand side and the Navigation bar in the upper right-hand side. The Display page name has an underline, to let the user know which page thay are on.
   - On clicking the desired icon they will be brought to the page section with Heading such as _About Us_ & _Contact us_ with clear information there in to enable them to navigate further.
 
-On clicking the desired icon they will be brought to the page section with Heading such as _About Us_ & _Contact us_ with clear information there in to enable them to navigate further.
+<br>
 
-    <br>
-
-- - As a user I need to be able to see text and images clearly
+- ### As a user I need to be able to see text and images clearly
 - The User will see that the Typography is Clear & Concise with adequate letter spacing. The text is contrasted well with Three colors and _Dark Gray_ _White_ & _Teal_
 
-    <br>
+ <br>
 
-- - As a user I need to be able to contact the company with relative ease through social media or alternative links
+- ### As a user I need to be able to contact the company with relative ease through social media or alternative links
 
-    - The user can contact HACCP-FLOW via Social Media icons on the base of the page. There is an email link in the contact section as is the Location icon for directions which was downloaded from Google Maps
+  - The user can contact HACCP-FLOW via Social Media icons on the base of the page. There is an email link in the contact section as is the Location icon for directions which was downloaded from Google Maps
 
-    <br>
+<br>
 
-- - As a user I need to be able to get the solution to my questions
+- ### As a user I need to be able to get the solution to my questions
 
-    - In the About Us section the User can see clearly what HACCP-FLOW has to offer them in the form of factual short statements that again will have the User interested in finding out more and contacting them via the _ Request Demo Link_
+  - In the About Us section the User can see clearly what HACCP-FLOW has to offer them in the form of factual short statements that again will have the User interested in finding out more and contacting them via the _ Request Demo Link_
 
 ## Additional Testing
 
