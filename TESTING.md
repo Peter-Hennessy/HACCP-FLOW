@@ -18,7 +18,7 @@ The HACCP-FLOW site has be throughly tested. All the code has been run through t
 
 The CSS validator results are below:
 
-![CSS Validator test result]()
+![CSS Validator test result](assets/css/images/readme-images/css-validator.png)
 
 ## Browser Compatibility
 
@@ -70,3 +70,5 @@ _I found doing this in Incognito browser window, gave a more accurate result wit
 
 ### Peer review
 In addition to the above testing the beta version of the site was put through its paces by peers, both in the software development field and outside. The results highlighted responsive design weakness for a type of mobile device that was rectified with minor CSS amendments. There were also minor spelling and grammar errors that have since been fixed.
+
+Back to [README.md](./README.md#testing).
