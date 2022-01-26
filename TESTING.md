@@ -62,7 +62,7 @@ Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, functiona
 ### Lighthouse
 
 #### Desktop
-![Google Lighthouse Test](assets/css/images/readme-images/lighthouse-desktop.png)
+![Google Lighthouse Test](assets/css/images/readme-images/desktop-lighthouse.png)
 
 #### Mobile 
 ![Google lighthouse Test](assets/css/images/readme-images/lighthouse-mobile.png)
