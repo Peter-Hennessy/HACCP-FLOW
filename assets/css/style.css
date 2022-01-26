@@ -1,562 +1,500 @@
-@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Roboto&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Roboto&display=swap");
 
 * {
-    margin: 0;
-    padding: 0;
-    border: none;
+  margin: 0;
+  padding: 0;
+  border: none;
 }
 
 body {
-    font-family: Archivo, sans-serif;
-    font-weight: 300;
-    color: #0a0a0a;
-
-
+  font-family: Archivo, sans-serif;
+  font-weight: 300;
+  color: #0a0a0a;
 }
 
 /* headings & logos */
 
 /* navigation links */
 
- #menu {
-     font-size: 100%;
-     letter-spacing: 1px;
- }
-
- #menu, #logo {
-     line-height: 75px;
-     color: #0a0a0a;
- }
-
- #menu a:hover {
-border-bottom: 1px solid #0a0a0a;
-
- }
- .active a:hover{
-    border-bottom: 1px solid #0a0a0a;
- }
-
-
- #menu li {
-     float: right;
-     list-style-type: none;
-     margin-right: 20px;
- }
-
- #menu a {
-     text-decoration: none;
-     color: inherit;
- }
-
-
-.active {
-   border-bottom: 1px solid #0a0a0a;
+#menu {
+  font-size: 100%;
+  letter-spacing: 1px;
 }
 
-    
+#menu,
 #logo {
-    float: left;
-    font-size: 300%;
-    padding: 10px;
-    margin-left: 30px;
+  line-height: 75px;
+  color: #0a0a0a;
+}
+
+#menu a:hover {
+  border-bottom: 1px solid #0a0a0a;
+}
+.active a:hover {
+  border-bottom: 1px solid #0a0a0a;
+}
+
+#menu li {
+  float: right;
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+#menu a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.active {
+  border-bottom: 1px solid #0a0a0a;
+}
+
+#logo {
+  float: left;
+  font-size: 300%;
+  padding: 10px;
+  margin-left: 30px;
 }
 
 #chef-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
- 
-
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
 }
 #cover-text-outer {
-
-    width: 280px;
-    height: 280px;
-    overflow: hidden;
-    position: absolute;
-    
+  width: 280px;
+  height: 280px;
+  overflow: hidden;
+  position: absolute;
 }
 /* chef-image */
 
 #chef-image {
-    height: 600px;
-    width: 100%;
-    background-image: url('images/chef-cook-2.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-left: 10px;
+  height: 600px;
+  width: 100%;
+  background-image: url("images/chef-cook-2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-left: 10px;
 }
-
 
 /* Promise-Section*/
 
 #promise {
-    height: 600px;
-
+  height: 600px;
 }
-  .promise a {
-      overflow: hidden;
-  }
+.promise a {
+  overflow: hidden;
+}
 
 #left-side {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
-    
+  padding-top: 30px;
+  width: 33%;
+  float: left;
 }
 
 #right-side {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
+  padding-top: 30px;
+  width: 33%;
+  float: right;
 }
 
 #center-side {
-    width: 300px;
-    margin: 0 auto;
-    background-color: rgb(9, 200, 255);
-    border: 2px solid #0a0a0a;
-    border-radius: 25px;
-    padding: 20px;
-    height: 400px; 
-    font-family: Archivo, sans-serif;
-    letter-spacing: 1px;
-    text-align: center;
-    color: #0a0a0a;
-    padding-top: 40px;
-    
+  width: 300px;
+  margin: 0 auto;
+  background-color: rgb(9, 200, 255);
+  border: 2px solid #0a0a0a;
+  border-radius: 25px;
+  padding: 20px;
+  height: 400px;
+  font-family: Archivo, sans-serif;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #0a0a0a;
+  padding-top: 40px;
 }
 
 #center-side a {
-    color: #fff;
-    font-size: 150%;
+  color: #fff;
+  font-size: 150%;
 }
 
-
-
-
-
 hr {
-    border-top: 1px solid #0a0a0a;
-    width: 100%;
-    margin: 5px 0;
+  border-top: 1px solid #0a0a0a;
+  width: 100%;
+  margin: 5px 0;
 }
 
 .left-side-heading {
-    width: 60%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-
+  width: 60%;
+  float: right;
+  line-height: 20px;
+  clear: both;
+  margin-bottom: 50px;
 }
 .right-side-heading {
-    width: 60%;
-    float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
+  width: 60%;
+  float: left;
+  line-height: 20px;
+  clear: both;
+  margin-bottom: 50px;
 }
 
-.right-side-heading h2{
-    text-align: right;
-
+.right-side-heading h2 {
+  text-align: right;
 }
 
-.right-side-heading p{
-    text-align: right;
+.right-side-heading p {
+  text-align: right;
 }
 
 #details {
-    background-image: url('images/food-footer.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 300px;
-    overflow: hidden;
-    margin: 0 auto;
-    padding-bottom: 60px;
-    width: 100%;
+  background-image: url("images/food-footer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  overflow: hidden;
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 100%;
 }
 
-
 #details p a {
-    color: #fafafa;
+  color: #fafafa;
 }
 
 #details div {
-color: #fafafa;
-   height: 400px;
-   padding-top: 80px;
-   float: right;
-   margin: 0 auto;
-   background-color: rgba(0, 0, 0, .6); 
-   width: 100%;
-   text-align: center;
+  color: #fafafa;
+  height: 400px;
+  padding-top: 80px;
+  float: right;
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  text-align: center;
 }
-
-
-
 
 /* Request Demo Page*/
 
 #details-demo {
-    background-size: cover;
-    
-    height: 300px;
-    overflow: hidden;
-    margin: 0 auto;
-    padding-bottom: 60px;
-    width: 100%;
+  background-size: cover;
+
+  height: 300px;
+  overflow: hidden;
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 100%;
 }
 
-#details-demo p a{
-
-    color: #0a0a0a;
+#details-demo p a {
+  color: #0a0a0a;
 }
 
 #details-demo div {
-    color: #0a0a0a;
-   height: 300px;
-   padding-top: 80px;
-   float: right;
-   margin: 0 auto;
-   background-color: rgb(211,211,211, 0.7);
-  
-   width: 100%;
-   text-align: center;
+  color: #0a0a0a;
+  height: 300px;
+  padding-top: 80px;
+  float: right;
+  margin: 0 auto;
+  background-color: rgb(211, 211, 211, 0.7);
 
+  width: 100%;
+  text-align: center;
 }
-
 
 .demo-request {
-margin: 150px 30% 10px 0;
-color: #fff;
-background-color: rgba(9, 200, 255, 0.7);
+  margin: 150px 30% 10px 0;
+  color: #fff;
+  background-color: rgba(9, 200, 255, 0.7);
 
-max-width: 500px;
-position: absolute;
-left: 10%;
-padding-top: 30px;
-padding-right: 50px;
-padding-bottom: 30px;
-padding-left: 30px;
+  max-width: 500px;
+  position: absolute;
+  left: 10%;
+  padding-top: 30px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  padding-left: 30px;
 }
-      .demo-request > h1 {
-          color: #0a0a0a;
-          margin-bottom: 20px;
-          text-align: center;
+.demo-request > h1 {
+  color: #0a0a0a;
+  margin-bottom: 20px;
+  text-align: center;
+}
 
-      }
+.form-section {
+  clear: left;
+  background: url("images/footer-food.jpg") no-repeat center center;
+  background-size: cover;
+  background-position: center;
+  height: 900px;
+}
 
-      .form-section {
+input,
+textarea {
+  width: 100%;
+  height: 25px;
+  padding: 8px;
+  margin: 5px 0 5px 0;
+  border: 1px solid #0a0a0a;
+  border-radius: 2px;
+  outline: none;
+}
+input,
+placeholder {
+  color: #0a0a0a;
+}
+button {
+  width: 50%;
+  padding: 10px;
+  border: none;
+  background: #fff;
+  font-size: 14px;
+  font-weight: 300;
+  color: #0a0a0a;
+}
 
-        clear: left;
-        background: url('images/footer-food.jpg') no-repeat center center;
-        background-size: cover;
-        background-position: center;
-        height: 900px;
-      }
+/* Dummy response page*/
 
-      input, textarea {
-        width: 100%;
-        height: 25px;
-        padding: 8px;
-        margin: 5px 0 5px 0;
-        border: 1px solid #0a0a0a;
-        border-radius: 2px;
-        outline: none;
-        }
-        input, placeholder {
-        color: #0a0a0a;
-        }
-        button {
-        width: 50%;
-        padding: 10px;
-        border: none;
-        background: #fff;
-        font-size: 14px;
-        font-weight: 300;
-        color: #0a0a0a;
-        }
-  
-    /* Dummy response page*/
+.reply-section {
+  clear: left;
+  background: url("images/footer-food.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  letter-spacing: 1px;
+}
 
-    .reply-section {
+.reply-section h2 {
+  font-size: 40px;
+}
 
-        clear: left;
-        background: url('images/footer-food.avif');
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
-        height: 600px;
-        letter-spacing: 1px;
-      }
+.reply-section p {
+  font-size: 20px;
+}
 
-      .reply-section h2 {
-          font-size: 40px;
+#reply div {
+  color: #fff;
+  height: 400px;
+  padding-top: 80px;
+  float: right;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
 
-      }
+/*creates the level of zoom for cover-text */
 
-      .reply-section p {
-          font-size: 20px;
-      }
+#cover-text {
+  font-size: 100%;
+  font-family: Roboto, sans-serif;
+  letter-spacing: 4px;
+  text-align: center;
+  color: #3a3a3a;
 
-    
-    #reply div {
-    color: #fff;
-       height: 400px;
-       padding-top: 80px;
-       float: right;
-       margin: 0 auto;
-       width: 100%;
-       text-align: center;
-       
-    }
+  padding-top: 30px;
+  padding-left: 10px;
 
+  bottom: 30px;
+  right: 300px;
 
- /*creates the level of zoom for cover-text */
+  position: absolute;
 
- #cover-text {
-     font-size: 100%;
-     font-family: Roboto, sans-serif;
-     letter-spacing: 4px;
-     text-align:center;
-     color: #3a3a3a;
-    
-    
-     padding-top: 30px;
-     padding-left: 10px;
+  animation-name: cover-text-zoom;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
 
- 
+#circle-container {
+  width: 250px;
+  height: 250px;
+  padding: 30px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50%;
+  margin: 0 auto;
+  background-color: rgb(9, 200, 255);
+  float: right;
+}
 
-     bottom: 30px;
-     right: 300px; 
-
-     position: absolute;
-
-     
-animation-name: cover-text-zoom;
-animation-duration: 3s;
-animation-fill-mode: forwards;
- }
-
- 
- 
- 
- #circle-container {
-     width: 250px;
-     height: 250px;
-     padding: 30px;
-     border-style: solid;
-     border-width: 1px;
-     border-radius: 50%;
-     margin: 0 auto;
-     background-color: rgb(9, 200, 255);
-     float: right;
-
- }
- 
- @keyframes cover-text-zoom {
-    from{
-        transform: scale(1);
-    }
-    to{
-        transform: scale(1.1);
- }
- } 
-
-
-   
-
+@keyframes cover-text-zoom {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
 
 hr {
-    border-top: 2px solid #0a0a0a;
-    margin: 5px;
+  border-top: 2px solid #0a0a0a;
+  margin: 5px;
 }
 
 .right-heading {
-    width: 50%;
-    float: right;
-    line-height: 30px;
-    clear: both;
-    margin-bottom: 40px;
-    text-align : left;
-    padding: 30px;
-  
-} 
-
-#welcome {
-    text-align: center;
-    margin: 15px 0;
-    font-size: 300%;
+  width: 50%;
+  float: right;
+  line-height: 30px;
+  clear: both;
+  margin-bottom: 40px;
+  text-align: left;
+  padding: 30px;
 }
 
-
+#welcome {
+  text-align: center;
+  margin: 15px 0;
+  font-size: 300%;
+}
 
 /* footer styles*/
 
 footer {
-    height: 150px;
-    background-color: #fff;
+  height: 150px;
+  background-color: #fff;
 }
-  h4 {
-      color: #fff;
-      margin: 5px;
-      padding: 10px;
-
-  }
-
+h4 {
+  color: #fff;
+  margin: 5px;
+  padding: 10px;
+}
 
 .social-networks {
-    text-align: center;
+  text-align: center;
 }
 
-.social-networks  li {
-    display: inline;
+.social-networks li {
+  display: inline;
 }
 .social-networks i {
-    font-size :160%;
-    margin: 1%;
-    padding: 5%;
-    color: #3a3a3a;
+  font-size: 160%;
+  margin: 1%;
+  padding: 5%;
+  color: #3a3a3a;
 }
 .reply-section {
-    font-size: 100%;
-   height: 1200px;
-
+  font-size: 100%;
+  height: 1200px;
 }
 .reply-section {
-   width: 65%;
-   float: left;
-   padding: 0;
+  width: 65%;
+  float: left;
+  padding: 0;
 }
-    
-
-
-
 
 /*  for larger to medium size screens*/
-@media  screen and (max-width: 1200px) {
-    #promise {
-        width: 90%;
-        height: 1200px;
-        margin: 0 auto;
-    }
+@media screen and (max-width: 1200px) {
+  #promise {
+    width: 90%;
+    height: 1200px;
+    margin: 0 auto;
+  }
 
-    .left-side-heading, .right-side-heading {
-        width: inherit;
-    }
+  .left-side-heading,
+  .right-side-heading {
+    width: inherit;
+  }
 
-    .left-side-heading h2, .right-side-heading h2 {
-        width: 100%;
-        text-align: center;
-    }
-    .left-side-heading p, .right-side-heading p {
-        text-align: center;
-        padding: 0 20px;
-    }
+  .left-side-heading h2,
+  .right-side-heading h2 {
+    width: 100%;
+    text-align: center;
+  }
+  .left-side-heading p,
+  .right-side-heading p {
+    text-align: center;
+    padding: 0 20px;
+  }
 
-    #welcome {
-        padding: 30px 0;
-        margin: 0;    
-    }
+  #welcome {
+    padding: 30px 0;
+    margin: 0;
+  }
 
-    #left-side, #right-side {
-        width: 100%;
-        float: left;
-        padding: 0;
-}
-#center-side {
+  #left-side,
+  #right-side {
+    width: 100%;
+    float: left;
+    padding: 0;
+  }
+  #center-side {
     clear: both;
     width: 100%;
     float: left;
     padding: 0;
-}
+  }
 
-
-hr {
+  hr {
     display: none;
-}
-
-
-
-
-
-
+  }
 }
 
 /* for medium screen sizes 950px wide and down */
 
 @media screen and (max-width: 950px) {
+  #menu {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 20px;
+    font-size: 100%;
+  }
 
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 20px;
-        font-size: 100%;
-        
-    }
+  #cover-text {
+    width: 90%;
+    left: 0;
+  }
 
-    #cover-text {
-        width: 90%;
-        left: 0;
-    }
-
-    #promise {
+  #promise {
     width: 90%;
     height: 1200px;
     margin: 0 auto;
-    }
+  }
 
-     .left-side-heading, .right-side-heading {
-width: inherit;
+  .left-side-heading,
+  .right-side-heading {
+    width: inherit;
+  }
 
-     }
+  .left-side-heading h2,
+  .right-side-heading h2 {
+    width: 100%;
+    text-align: center;
+  }
 
-    .left-side-heading h2, .right-side-heading h2 {
-        width: 100%;
-        text-align: center;
+  .left-side-heading p,
+  .right-side-heading p {
+    text-align: center;
+    padding: 0 20px;
+  }
 
-    } 
-    
-    .left-side-heading p, .right-side-heading p {
-        text-align: center;
-        padding: 0 20px;
+  .center-heading {
+    clear: both;
+    width: 0;
+    float: left;
+    border-radius: 0;
+  }
 
-    } 
+  .demo-request {
+    width: 60%;
+    height: 400px;
+  }
 
+  .form-section {
+    width: 100%;
+    float: left;
+    padding: 0;
+  }
 
-     .center-heading {
-            clear: both;
-            width: 0;
-            float: left;
-            border-radius: 0;
-     }
-
-     .demo-request {
-         width: 60%;
-        height: 400px;
-    
-    }
-
-    .form-section {
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    .demo-request {
-        width: 60%;
-       height: 400px;
-   
-   }
-   .reply-section {
-       width: 100%;
-       float: left;
-       padding: 0;
-   }
-    }
+  .demo-request {
+    width: 60%;
+    height: 400px;
+  }
+  .reply-section {
+    width: 100%;
+    float: left;
+    padding: 0;
+  }
+}

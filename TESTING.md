@@ -29,21 +29,21 @@ Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, Functiona
 
 - ### As a user I want to be able to be drawn into the page
 
-  - When the page is opened by the User and they are drawn to a familiar relatable image, and the one-line statement outlining what HACCP-FLOW can offer is animated towards them
-  
+  - When the page is opened by the User they are drawn to a familiar relatable image, with an animated one-line statement outlining what HACCP-FLOW can offer, moving towards them
+
    <br>
 
 - ### As a user I need to be able to see clearly where I want to go
 
   - The User will be introduced to the familiar layout with the company name in the upper left-hand side and the Navigation bar in the upper right-hand side. The Display page name has an underline, to let the user know which page thay are on.
-  
+
   - On clicking the desired icon, they will be brought to the page section with Heading such as _About Us_ & _Contact us_ with clear information there in to enable them to navigate further.
 
 <br>
 
 - ### As a user I need to be able to see text and images clearly
- 
- - The User will see that the Text is Clear & Concise with adequate letter spacing. The text is contrasted well with Three colors  _Dark Gray_ , _White_   &   _Teal_
+
+  - The User will see that the Text is Clear & Concise with adequate letter spacing. The text is contrasted well with Three colors _Dark Gray_ , _White_ & _Teal_
 
  <br>
 
@@ -63,7 +63,7 @@ Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, Functiona
 
 ![HACCP-FLOW responsive design](assets/css/images/readme-images/responsive-image.jpg)
 
-  - The Platform was tested on [Am I Responsive](http://ami.responsivedesign.is/) across different screen sizes and different Platform Models
+- The Platform was tested on [Am I Responsive](http://ami.responsivedesign.is/) across different screen sizes and different Platform Models
 
 ### Lighthouse
 
@@ -91,4 +91,3 @@ In addition to the above testing the site was put out for review by peers in the
 Return to [README.md](./README.md#testing).
 
 [Top](#testing)
-
