@@ -37,7 +37,7 @@ Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, Functiona
 
   - The User will be introduced to the familiar layout with the company name in the upper left-hand side and the Navigation bar in the upper right-hand side. The Display page name has an underline, to let the user know which page thay are on.
 
-  - On clicking the desired icon, they will be brought to the page section with Heading such as _About Us_ & _Contact us_ with clear information there in to enable them to navigate further.
+   - On clicking the desired icon, they will be brought to the page section with Heading such as _About Us_ & _Contact us_ with clear information there in to enable them to navigate further.
 
 <br>
 
@@ -55,7 +55,7 @@ Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, Functiona
 
 - ### As a user I need to be able to get the solution to my questions
 
-  - In the About Us section the User can see clearly what HACCP-FLOW has to offer them in the form of factual short statements that again will have the User interested in finding out more and contacting them via the _ Request Demo Link_
+  - In the About Us section the User can see clearly what HACCP-FLOW has to offer them in the form of factual short statements that again will have the User interested in finding out more and contacting them via the _Request Demo Link_
 
 ## Additional Testing
 
