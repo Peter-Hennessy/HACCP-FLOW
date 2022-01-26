@@ -36,12 +36,14 @@ Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, Functiona
 - ### As a user I need to be able to see clearly where I want to go
 
   - The User will be introduced to the familiar layout with the company name in the upper left-hand side and the Navigation bar in the upper right-hand side. The Display page name has an underline, to let the user know which page thay are on.
+  
   - On clicking the desired icon, they will be brought to the page section with Heading such as _About Us_ & _Contact us_ with clear information there in to enable them to navigate further.
 
 <br>
 
 - ### As a user I need to be able to see text and images clearly
-- The User will see that the Typography is Clear & Concise with adequate letter spacing. The text is contrasted well with Three colors  _Dark Gray_  _White_  &  _Teal_
+ 
+ - The User will see that the Text is Clear & Concise with adequate letter spacing. The text is contrasted well with Three colors  _Dark Gray_ , _White_   &   _Teal_
 
  <br>
 
@@ -56,6 +58,12 @@ Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, Functiona
   - In the About Us section the User can see clearly what HACCP-FLOW has to offer them in the form of factual short statements that again will have the User interested in finding out more and contacting them via the _ Request Demo Link_
 
 ## Additional Testing
+
+### Responsive Behaviour on Various Devices
+
+![HACCP-FLOW responsive design](assets/css/images/readme-images/responsive-image.jpg)
+
+  - The Platform was tested on [Am I Responsive](http://ami.responsivedesign.is/) across different screen sizes and different Platform Models
 
 ### Lighthouse
 
@@ -81,5 +89,6 @@ The site was also tested using [Google Lighthouse](https://developers.google.com
 In addition to the above testing the site was put out for review by peers in the Catering Industry and peers in the Slack Community. The results highlighted some minor details which had a positive impact on the page, the Request Demo link being an example, by replacing it in a different section, resizing also it makes the UX more straight forward and user friendly.
 
 Return to [README.md](./README.md#testing).
+
 [Top](#testing)
 

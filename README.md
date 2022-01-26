@@ -39,9 +39,8 @@ The concept for my project is a company I am in the process of creating; it is a
 # User Stories
 - As a user I want to be able to be drawn into the page
 - As a user I need to be able to see clearly where I want to go
-- As a user I need to be able to see text and images clearly 
-- As a user I need to be able to contact the company with relative ease through Social media or alternative links
-- As a user I need the page to load efficiently to add to the user experience
+- As a user I need to be able to see text and images clearly
+- As a user I need to be able to contact the company with relative ease through social media or alternative links
 - As a user I need to be able to get the solution to my questions
 
 
@@ -121,6 +120,8 @@ The Reply Page is designed with the similar to the form page with a Thank you me
  [Top](<#contents>)
 
 # Testing
+
+Please refer to [**_here_**](TESTING.md) for more information on testing
 
  [Top](<#contents>)
 
