@@ -80,6 +80,6 @@ The site was also tested using [Google Lighthouse](https://developers.google.com
 
 In addition to the above testing the site was put out for review by peers in the Catering Industry and peers in the Slack Community. The results highlighted some minor details which had a positive impact on the page, the Request Demo link being an example, by replacing it in a different section, resizing also it makes the UX more straight forward and user friendly.
 
-Back to [README.md](./README.md#testing).
-Top [Testing](#testing)
+Return to [README.md](./README.md#testing).
+[Top](#testing)
 
