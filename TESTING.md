@@ -2,7 +2,12 @@
 
 
 ## Bugs & Display Errors
-![HACCP-FLOW](assets/css/images/readme-images/bugs.png)(assets/css/images/readme-images/bugs-2.png)(assets/css/images/readme-images/bugs-3.png)
+![HACCP-FLOW](assets/css/images/readme-images/bugs.png)
+![HACCP-FLOW](assets/css/images/readme-images/bugs-2.png)
+![HACCP-FLOW](assets/css/images/readme-images/bugs-3.png)
+
+- Corrected errors on all three pages ran validator test and post results below
+
 
 ## Code Validation
 
