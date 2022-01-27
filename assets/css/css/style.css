@@ -73,7 +73,7 @@ body {
 #chef-image {
   height: 600px;
   width: 100%;
-  background-image: url('images/chef-cook-2.jpg');
+  background-image: url('../images/chef-cook-2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   padding-left: 10px;
@@ -150,7 +150,7 @@ hr {
 }
 
 #details {
-  background-image: url("images/food-footer.jpg");
+  background-image: url('../images/food-footer.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: 300px;
@@ -224,7 +224,7 @@ hr {
 
 .form-section {
   clear: left;
-  background: url("images/footer-food.jpg") no-repeat center center;
+  background: url('../images/footer-food.jpg');
   background-size: cover;
   background-position: center;
   height: 900px;
@@ -258,7 +258,7 @@ button {
 
 .reply-section {
   clear: left;
-  background: url("images/footer-food.avif");
+  background: url('../images/footer-food.avif');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
