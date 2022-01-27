@@ -1,5 +1,9 @@
 # Testing
 
+
+## Bugs & Display Errors
+![HACCP-FLOW](assets/css/images/readme-images/bugs.png)(assets/css/images/readme-images/bugs-2.png)(assets/css/images/readme-images/bugs-3.png)
+
 ## Code Validation
 
 The HACCP-FLOW site has been thoroughly tested. All the code has been run through the [W3C html Validator](https://validator.w3.org/) and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). some errors were found on the Home, Demo Request & Response pages. Corrected all Errors and retested, no errors were returned for all 3.
