@@ -73,7 +73,7 @@ body {
 #chef-image {
   height: 600px;
   width: 100%;
-  background-image: url("images/chef-cook-2.jpg");
+  background-image: url('images/chef-cook-2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   padding-left: 10px;
