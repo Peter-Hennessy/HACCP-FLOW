@@ -18,7 +18,9 @@
 
 #### Creating a link to display a response to Form Validation
 
-   - On reaching out to Slack I was given advise from [Dave Bowers](https://github.com/dnlbowers) and I was able to intergrate the advice to create a Form Validation Page ![Form Validation](assets/css/images/readme-images/form-validator.png)
+   - On reaching out to Slack I was given advise from [Dave Bowers](https://github.com/dnlbowers) and I was able to intergrate the advice to create a Form Validation Page 
+   
+   ![Form Validation](assets/css/images/readme-images/form-validator.png)
 
 #### Animation with the cover text on the Main Image
 
@@ -28,9 +30,8 @@
 
    - This was down to inadequate file paths, but again through watching the tutorial I corrected the error
 
-#### Creating the README.md file 
-
-    - The major bug was **Merge Conflict** again down to be a novice, reached out to the Slack Community who offered advice to rectify this problem
+#### Creating the Readme file 
+   - The major bug was **Merge Conflict** again down to be a novice, reached out to the Slack Community who offered advice to rectify this problem
 
 
 
