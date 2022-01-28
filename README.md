@@ -35,14 +35,12 @@ The concept for my project is a company I am in the process of creating; it is a
 
 ![HACCP-FLOW responsive design](assets/css/images/readme-images/responsive-image.jpg)
 
-
 # User Stories
 - As a user I want to be able to be drawn into the page
 - As a user I need to be able to see clearly where I want to go
 - As a user I need to be able to see text and images clearly
 - As a user I need to be able to contact the company with relative ease through social media or alternative links
 - As a user I need to be able to get the solution to my questions
-
 
 # Wireframes
 ![HACCP-FLOW wireframes](assets/css/images/wireframes.png)
@@ -55,7 +53,7 @@ The concept for my project is a company I am in the process of creating; it is a
  [Top](<#contents>)
 
 # Site Structure
-The static webpage is designed in three separate informative sections, the Main image with animation circle to draw the attention of the User with the nav bar in the upper right-hand corner. This Nav bar contains the  [Home](<#home>) which is underlined to let the user know what page they are currently on. Then followed by the  [About-us](<#about-us>) which when clicked will bring the user to the middle of the page. In the About section in the middle there is a [Request Demo](<#request-demo>) which will bring you to another page where the user will find a form, On completing this form the Submit button will be clicked which then will bring you to a reply page, And finally the [Contact-Us](<#contact-us>) which when clicked will bring you the bottom section of the page with email link & map  direction link. This structure is drafted in the [Wireframes](<#wireframes>) Section
+The static webpage is designed in three separate informative sections, the Main image with animation circle to draw the attention of the User with the nav bar in the upper right-hand corner. This Nav bar contains the [Home](<#home>) which is underlined to let the user know what page they are currently on. Then followed by the [About-us](<#about-us>) which when clicked will bring the user to the middle of the page. In the About section in the middle there is a [Request Demo](<#request-demo>) which will bring you to another page where the user will find a form, On completing this form the Submit button will be clicked which then will bring you to a reply page, And finally the [Contact-Us](<#contact-us>) which when clicked will bring you the bottom section of the page with email link & map  direction link. This structure is drafted in the [Wireframes](<#wireframes>) Section
 
  [Top](<#contents>)
 
@@ -69,7 +67,7 @@ For my project I decided to choose two fonts, Archivo as the text font and Robot
 - ### Color Scheme
 For this project I decided on a traditional color scheme of #0a0a0a which in a very _Dark Gray (mostly black)_ and #fff which is a _White_, and rgb(9,200,255) which is a shade of _Teal_ which adds a nice blast of fresh modern color in the section that needs to stand out, like the 'About us' section and also the 'Form' section. It makes the site look modern & fresh which is what I set out to do from the beginning. Both White and Black text contrast nicely with the shade of Teal. 
 
-To Check The Contrast between **Text** and **Backround** I used [Color Contrast](https://coolors.co/contrast-checker/112a46-acc8e5)
+To Check The Contrast between **Text** and **Background** I used [Color Contrast](https://coolors.co/contrast-checker/112a46-acc8e5)
 
 ![Contrast Color](assets/css/images/readme-images/contrast-1.png) ![Contrast Color](assets/css/images/readme-images/contrast-2.png) ![Contrast Color](assets/css/images/readme-images/contrast-4.png)
 
@@ -84,7 +82,7 @@ This section has the landing Image with the Animated Circle cover text, this is 
 
 - #### About Us
 ![HACCP-FLOW about us](assets/css/images/readme-images/about-us.png)
-The About Us section gives a detailed offering of what the company can offer with the Welcoming Statement "Let Us Work With You!!" This section contains a video link in the _Avoid Legal Action_ to explain the importance of correct HACCP . It also contains a link to the [Request Demo](<request-demo>) which can be seen below. 
+The About Us section gives a detailed offering of what the company can offer with the Welcoming Statement "Let Us Work with You!!" This section contains a video link in the _Avoid Legal Action_ to explain the importance of correct HACCP . It also contains a link to the [Request Demo](<request-demo>) which can be seen below. 
 
 - #### Contact Us
 ![HACCP-FLOW](assets/css/images/readme-images/footer.png)
@@ -94,7 +92,16 @@ The Contact Us section contains all the relevant ways to contact us via Email, T
 This section contains all Social Media Links which when selected will open in a separate page. The Social Media links are the to enhance the User Experience, They are set in a square Font Awesome format to contrast other elements on the page and also adds a Clean design to the foot of the page 
 
 - #### Request Demo
-This section is embedded in the About Us Section, it has a contrasting color to the rest of the text and it is situated on a teal background to stand out on the page. This link will redirect you to another page with a form to fill and submit
+This section is embedded in the **About Us Section**, it has a contrasting color to the rest of the text, and it is situated on a teal background to stand out on the page. This link will redirect you to another page with a form to fill and submit
+
+ # Future Features
+
+ - In the Future I would Like to add a video to the Landing Page this will give the User an example of what HACP-FLOW can offer
+
+ - I would also like to have a section with a pricing structure to show Users the different options available
+
+ - I am in the process of creating a Food Safety Management System in partnership with the [Nimbus Centre](https://www.nimbus.cit.ie/) and hope to have a MVP by year end, and use this static webpage to promote it
+
 
  [Top](<#contents>)
  
@@ -151,7 +158,6 @@ The method from cloning a project from GitHub is below:
 5. Press **clone**, and a local clone will be created
 
 
-
  [Top](<#contents>)
 
 # Credits
@@ -164,7 +170,6 @@ The method from cloning a project from GitHub is below:
 * The inspiration for the Project page layout came from the [Love Running]
 * [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
 
-
  [Top](<#contents>)
 
 # Media
@@ -173,11 +178,18 @@ The method from cloning a project from GitHub is below:
  [Top](<#contents>)
 
 # Acknowledgements
-The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). I would like to thank my Mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for his patience, understanding & guidance, Also Help from the Slack Community [Dave Bowers](https://github.com/dnlbowers) for his help with a few issues I had. And last but certainly not least [Kasia Boguka](https://github.com/bezebee) for her help & guidance with the project
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). 
+
+- I would like to thank my Mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for his patience, understanding & guidance, 
+
+- Also Help from the Slack Community [Dave Bowers](https://github.com/dnlbowers) for his help with a few issues I had. 
+
+- And last but certainly not least [Kasia Boguka](https://github.com/bezebee) for her help & guidance with the project
 
  [Top](<#contents>)
 
 
+   
+   
 
-   
-   
+

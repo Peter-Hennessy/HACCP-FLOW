@@ -8,6 +8,31 @@
 
 - Corrected errors on all three pages ran validator test and post results below
 
+# Bugs during project build
+
+### During the process alot of the bugs I encountered were down to inexperience in coding
+
+#### Table Formating on the **Request Demo** Page
+
+   - I Refered to [W3 schools](https://www.w3schools.com/howto/howto_css_contact_form.asp)) and found useful information which helped with the design of the table
+
+#### Creating a link to display a response to Form Validation
+
+   - On reaching out to Slack I was given advise from [Dave Bowers](https://github.com/dnlbowers) and I was able to intergrate the advice to create a Form Validation Page ![Form Validation](assets/css/images/readme-images/form-validator.png)
+
+#### Animation with the cover text on the Main Image
+
+   - The Circle went oval shaped, but with the guidance of the **Love Running** I Managed to understand what was to be done to execute this. I used the animation  from the cover text and the circle from the ethos section, and modified them to fit my page
+
+#### Images not displaying
+
+   - This was down to inadequate file paths, but again through watching the tutorial I corrected the error
+
+#### Creating the README.md file 
+
+    - The major bug was **Merge Conflict** again down to be a novice, reached out to the Slack Community who offered advice to rectify this problem
+
+
 
 ## Code Validation
 
@@ -44,7 +69,7 @@ Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, Functiona
 | Images | pass    | pass      | pass     | pass | pass     | pass            | pass            |
 | Links  | pass    | pass      | pass     | pass | pass     | pass            | pass            |
 
-* Note: On Larger monitors the Lnading page image repeated, added css 'Background  no-repeat command to fix bug'
+* Note: On Larger monitors the Landing page image repeated, I added css 'Background  no-repeat command to fix bug'
 
 # Testing User Stories
 
